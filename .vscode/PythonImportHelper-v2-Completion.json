@@ -1,5 +1,149 @@
 [
     {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "Produto",
+        "importPath": "src.classes.produto",
+        "description": "src.classes.produto",
+        "isExtraImport": true,
+        "detail": "src.classes.produto",
+        "documentation": {}
+    },
+    {
+        "label": "Produto",
+        "importPath": "src.classes.produto",
+        "description": "src.classes.produto",
+        "isExtraImport": true,
+        "detail": "src.classes.produto",
+        "documentation": {}
+    },
+    {
+        "label": "Produto",
+        "importPath": "src.classes.produto",
+        "description": "src.classes.produto",
+        "isExtraImport": true,
+        "detail": "src.classes.produto",
+        "documentation": {}
+    },
+    {
+        "label": "Produto",
+        "importPath": "src.classes.produto",
+        "description": "src.classes.produto",
+        "isExtraImport": true,
+        "detail": "src.classes.produto",
+        "documentation": {}
+    },
+    {
+        "label": "Usuario",
+        "importPath": "src.classes.usuario",
+        "description": "src.classes.usuario",
+        "isExtraImport": true,
+        "detail": "src.classes.usuario",
+        "documentation": {}
+    },
+    {
+        "label": "Usuario",
+        "importPath": "src.classes.usuario",
+        "description": "src.classes.usuario",
+        "isExtraImport": true,
+        "detail": "src.classes.usuario",
+        "documentation": {}
+    },
+    {
         "label": "GraphDatabase",
         "importPath": "neo4j",
         "description": "neo4j",
@@ -56,6 +200,591 @@
         "documentation": {}
     },
     {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_amarelo",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "adicionarProduto",
+        "importPath": "src.functions.adicionarProduto",
+        "description": "src.functions.adicionarProduto",
+        "isExtraImport": true,
+        "detail": "src.functions.adicionarProduto",
+        "documentation": {}
+    },
+    {
+        "label": "listarProduto",
+        "importPath": "src.functions.listarProduto",
+        "description": "src.functions.listarProduto",
+        "isExtraImport": true,
+        "detail": "src.functions.listarProduto",
+        "documentation": {}
+    },
+    {
+        "label": "listarProduto",
+        "importPath": "src.functions.listarProduto",
+        "description": "src.functions.listarProduto",
+        "isExtraImport": true,
+        "detail": "src.functions.listarProduto",
+        "documentation": {}
+    },
+    {
+        "label": "listarProduto",
+        "importPath": "src.functions.listarProduto",
+        "description": "src.functions.listarProduto",
+        "isExtraImport": true,
+        "detail": "src.functions.listarProduto",
+        "documentation": {}
+    },
+    {
+        "label": "removerProduto",
+        "importPath": "src.functions.removerProduto",
+        "description": "src.functions.removerProduto",
+        "isExtraImport": true,
+        "detail": "src.functions.removerProduto",
+        "documentation": {}
+    },
+    {
+        "label": "Vendedor",
+        "importPath": "src.classes.vendedor",
+        "description": "src.classes.vendedor",
+        "isExtraImport": true,
+        "detail": "src.classes.vendedor",
+        "documentation": {}
+    },
+    {
+        "label": "Vendedor",
+        "importPath": "src.classes.vendedor",
+        "description": "src.classes.vendedor",
+        "isExtraImport": true,
+        "detail": "src.classes.vendedor",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "listarUsuario",
+        "importPath": "src.functions.listarUsuario",
+        "description": "src.functions.listarUsuario",
+        "isExtraImport": true,
+        "detail": "src.functions.listarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "listarUsuario",
+        "importPath": "src.functions.listarUsuario",
+        "description": "src.functions.listarUsuario",
+        "isExtraImport": true,
+        "detail": "src.functions.listarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "listarUsuario",
+        "importPath": "src.functions.listarUsuario",
+        "description": "src.functions.listarUsuario",
+        "isExtraImport": true,
+        "detail": "src.functions.listarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "adicionarUsuario",
+        "importPath": "src.functions.adicionarUsuario",
+        "description": "src.functions.adicionarUsuario",
+        "isExtraImport": true,
+        "detail": "src.functions.adicionarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "cadastrarCompra",
+        "importPath": "src.functions.cadastrarCompra",
+        "description": "src.functions.cadastrarCompra",
+        "isExtraImport": true,
+        "detail": "src.functions.cadastrarCompra",
+        "documentation": {}
+    },
+    {
+        "label": "listarCompra",
+        "importPath": "src.functions.listarCompra",
+        "description": "src.functions.listarCompra",
+        "isExtraImport": true,
+        "detail": "src.functions.listarCompra",
+        "documentation": {}
+    },
+    {
+        "label": "atualizarCompra",
+        "importPath": "src.functions.atualizarCompra",
+        "description": "src.functions.atualizarCompra",
+        "isExtraImport": true,
+        "detail": "src.functions.atualizarCompra",
+        "documentation": {}
+    },
+    {
+        "label": "deletarCompra",
+        "importPath": "src.functions.deletarCompra",
+        "description": "src.functions.deletarCompra",
+        "isExtraImport": true,
+        "detail": "src.functions.deletarCompra",
+        "documentation": {}
+    },
+    {
+        "label": "cadastrarFavorito",
+        "importPath": "src.functions.cadastrarFavorito",
+        "description": "src.functions.cadastrarFavorito",
+        "isExtraImport": true,
+        "detail": "src.functions.cadastrarFavorito",
+        "documentation": {}
+    },
+    {
+        "label": "deletarFavorito",
+        "importPath": "src.functions.deletarFavorito",
+        "description": "src.functions.deletarFavorito",
+        "isExtraImport": true,
+        "detail": "src.functions.deletarFavorito",
+        "documentation": {}
+    },
+    {
+        "label": "menuCompra",
+        "importPath": "src.layouts.menuCompra",
+        "description": "src.layouts.menuCompra",
+        "isExtraImport": true,
+        "detail": "src.layouts.menuCompra",
+        "documentation": {}
+    },
+    {
+        "label": "menuProduto",
+        "importPath": "src.layouts.menuProduto",
+        "description": "src.layouts.menuProduto",
+        "isExtraImport": true,
+        "detail": "src.layouts.menuProduto",
+        "documentation": {}
+    },
+    {
+        "label": "menuUsuario",
+        "importPath": "src.layouts.menuUsuario",
+        "description": "src.layouts.menuUsuario",
+        "isExtraImport": true,
+        "detail": "src.layouts.menuUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "menuVendedor",
+        "importPath": "src.layouts.menuVendedor",
+        "description": "src.layouts.menuVendedor",
+        "isExtraImport": true,
+        "detail": "src.layouts.menuVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "cadastrarProduto",
+        "importPath": "src.functions.cadastrarProduto",
+        "description": "src.functions.cadastrarProduto",
+        "isExtraImport": true,
+        "detail": "src.functions.cadastrarProduto",
+        "documentation": {}
+    },
+    {
+        "label": "atualizarProduto",
+        "importPath": "src.functions.atualizarProduto",
+        "description": "src.functions.atualizarProduto",
+        "isExtraImport": true,
+        "detail": "src.functions.atualizarProduto",
+        "documentation": {}
+    },
+    {
+        "label": "deletarProduto",
+        "importPath": "src.functions.deletarProduto",
+        "description": "src.functions.deletarProduto",
+        "isExtraImport": true,
+        "detail": "src.functions.deletarProduto",
+        "documentation": {}
+    },
+    {
+        "label": "cadastrarUsuario",
+        "importPath": "src.functions.cadastrarUsuario",
+        "description": "src.functions.cadastrarUsuario",
+        "isExtraImport": true,
+        "detail": "src.functions.cadastrarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "atualizarUsuario",
+        "importPath": "src.functions.atualizarUsuario",
+        "description": "src.functions.atualizarUsuario",
+        "isExtraImport": true,
+        "detail": "src.functions.atualizarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "deletarUsuario",
+        "importPath": "src.functions.deletarUsuario",
+        "description": "src.functions.deletarUsuario",
+        "isExtraImport": true,
+        "detail": "src.functions.deletarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "menuFavorito",
+        "importPath": "src.layouts.menuFavorito",
+        "description": "src.layouts.menuFavorito",
+        "isExtraImport": true,
+        "detail": "src.layouts.menuFavorito",
+        "documentation": {}
+    },
+    {
+        "label": "cadastrarVendedor",
+        "importPath": "src.functions.cadastrarVendedor",
+        "description": "src.functions.cadastrarVendedor",
+        "isExtraImport": true,
+        "detail": "src.functions.cadastrarVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "listarVendedor",
+        "importPath": "src.functions.listarVendedor",
+        "description": "src.functions.listarVendedor",
+        "isExtraImport": true,
+        "detail": "src.functions.listarVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "atualizarVendedor",
+        "importPath": "src.functions.atualizarVendedor",
+        "description": "src.functions.atualizarVendedor",
+        "isExtraImport": true,
+        "detail": "src.functions.atualizarVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "deletarVendedor",
+        "importPath": "src.functions.deletarVendedor",
+        "description": "src.functions.deletarVendedor",
+        "isExtraImport": true,
+        "detail": "src.functions.deletarVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "solicitarInput",
+        "importPath": "src.utils.solicitarInput",
+        "description": "src.utils.solicitarInput",
+        "isExtraImport": true,
+        "detail": "src.utils.solicitarInput",
+        "documentation": {}
+    },
+    {
+        "label": "solicitarInput",
+        "importPath": "src.utils.solicitarInput",
+        "description": "src.utils.solicitarInput",
+        "isExtraImport": true,
+        "detail": "src.utils.solicitarInput",
+        "documentation": {}
+    },
+    {
+        "label": "solicitarInput",
+        "importPath": "src.utils.solicitarInput",
+        "description": "src.utils.solicitarInput",
+        "isExtraImport": true,
+        "detail": "src.utils.solicitarInput",
+        "documentation": {}
+    },
+    {
+        "label": "solicitarInput",
+        "importPath": "src.utils.solicitarInput",
+        "description": "src.utils.solicitarInput",
+        "isExtraImport": true,
+        "detail": "src.utils.solicitarInput",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
         "label": "create_usuario",
         "importPath": "src.database.create_usuario",
         "description": "src.database.create_usuario",
@@ -69,6 +798,42 @@
         "description": "src.database.search",
         "isExtraImport": true,
         "detail": "src.database.search",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "kind": 6,
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "peekOfCode": "class Compra:\n    _id: str = field(default=None, repr=False)\n    dataCompra: str = field(default=\"\")\n    valorTotal: float = field(default=0.0)\n    usuario: dict[str, any] = field(default_factory=dict)\n    produtos: list[dict[str, any]] = field(default_factory=list)\n    def __str__(self) -> str:\n        listagem = \"\"\n        listagem += f\"_id: {self._id}\\n\" if self._id is not None else \"\"\n        listagem += f\"dataCompra: {self.dataCompra}\\n\" if self.dataCompra != \"\" else \"\"",
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Produto",
+        "kind": 6,
+        "importPath": "src.classes.produto",
+        "description": "src.classes.produto",
+        "peekOfCode": "class Produto:\n    _id: str = field(default=None, repr=False)\n    nome: str = field(default=\"\")\n    descricao: str = field(default=\"\")\n    preco: float = field(default=0.0)\n    estoque: int = field(default=0)\n    vendedor: dict[str, any] = field(default_factory=dict)\n    def __str__(self) -> str:\n        listagem = \"\"\n        listagem += f\"_id: {self._id}\\n\" if self._id is not None else \"\"",
+        "detail": "src.classes.produto",
+        "documentation": {}
+    },
+    {
+        "label": "Usuario",
+        "kind": 6,
+        "importPath": "src.classes.usuario",
+        "description": "src.classes.usuario",
+        "peekOfCode": "class Usuario:\n    _id: str = field(default=None, repr=False)\n    nome: str = field(default=\"\")\n    endereco: str = field(default=\"\")\n    rg: str = field(default=\"\")\n    favoritos: list[dict[str, any]] = field(default_factory=list)\n    def __str__(self) -> str:\n        listagem = \"\"\n        listagem += f\"_id: {self._id}\\n\" if self._id is not None else \"\"\n        listagem += f\"nome: {self.nome}\\n\" if self.nome != \"\" else \"\"",
+        "detail": "src.classes.usuario",
+        "documentation": {}
+    },
+    {
+        "label": "Vendedor",
+        "kind": 6,
+        "importPath": "src.classes.vendedor",
+        "description": "src.classes.vendedor",
+        "peekOfCode": "class Vendedor:\n    _id: str = field(default=None, repr=False)\n    nome: str = field(default=\"\")\n    rg: str = field(default=\"\")\n    produtos: list[dict[str, any]] = field(default_factory=list)\n    def __str__(self) -> str:\n        listagem = \"\"\n        listagem += f\"_id: {self._id}\\n\" if self._id is not None else \"\"\n        listagem += f\"nome: {self.nome}\\n\" if self.nome != \"\" else \"\"\n        listagem += f\"rg: {self.rg}\\n\" if self.rg != \"\" else \"\"",
+        "detail": "src.classes.vendedor",
         "documentation": {}
     },
     {
@@ -123,6 +888,888 @@
         "description": "src.database.search",
         "peekOfCode": "def search(colecao, filter = None):\n    try:\n        querry = \"MATCH (u:\" + colecao + \") RETURN u\"\n        if filter:\n            querry = \"MATCH (u:\" + colecao + \") WHERE u.\" + filter + \" RETURN u\"\n        with driver.session() as session:\n            result = session.run(querry)\n            dados = []\n            for dado in result.data():\n                dados.append(dado[\"u\"])",
         "detail": "src.database.search",
+        "documentation": {}
+    },
+    {
+        "label": "menuCampoProdutos",
+        "kind": 2,
+        "importPath": "src.layouts.menuCampoProdutos",
+        "description": "src.layouts.menuCampoProdutos",
+        "peekOfCode": "def menuCampoProdutos(colecao: Compra | Vendedor) -> Compra | Vendedor:\n    while True:\n        limparTerminal()\n        print(\"--\" * 21)\n        print(formatarTexto_negrito(\"Menu Campo Produtos\"))\n        print(\"1 - Adicionar Produto\")\n        print(\"2 - Listar Produtos Atuais\")\n        print(\"3 - Listar Produtos Totais\")\n        print(\"4 - Remover Produto\")\n        print(\"0 - Concluir\")",
+        "detail": "src.layouts.menuCampoProdutos",
+        "documentation": {}
+    },
+    {
+        "label": "menuCampoUsuario",
+        "kind": 2,
+        "importPath": "src.layouts.menuCampoUsuario",
+        "description": "src.layouts.menuCampoUsuario",
+        "peekOfCode": "def menuCampoUsuario(colecao: Compra) -> Compra:\n    while True:\n        limparTerminal()\n        print(\"--\" * 21)\n        print(formatarTexto_negrito(\"Menu Campo Usuário\"))\n        print(\"1 - Setar Usuário\")\n        print(\"2 - Listar Usuários\")\n        print(\"--\" * 21)\n        opcao = input(\"\\nDigite a opção desejada: \")\n        match opcao:",
+        "detail": "src.layouts.menuCampoUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "menuCompra",
+        "kind": 2,
+        "importPath": "src.layouts.menuCompra",
+        "description": "src.layouts.menuCompra",
+        "peekOfCode": "def menuCompra():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Compra\"))\n        print(\"1 - Cadastrar Compra\")\n        print(\"2 - Listar Compras\")\n        print(\"3 - Atualizar Compra\")\n        print(\"4 - Deletar Compra\")\n        print(\"0 - Voltar\")",
+        "detail": "src.layouts.menuCompra",
+        "documentation": {}
+    },
+    {
+        "label": "menuFavorito",
+        "kind": 2,
+        "importPath": "src.layouts.menuFavorito",
+        "description": "src.layouts.menuFavorito",
+        "peekOfCode": "def menuFavorito():\n    while True:\n        limparTerminal()\n        print(\"--\" * 21)\n        print(formatarTexto_negrito(\"Menu Adicionar Produto\"))\n        print(\"1 - Adicionar Favorito\")\n        print(\"2 - Listar Usuários\")\n        print(\"3 - Listar Produtos\")\n        print(\"4 - Remover Favorito\")\n        print(\"0 - Concluir\")",
+        "detail": "src.layouts.menuFavorito",
+        "documentation": {}
+    },
+    {
+        "label": "menuPrincipal",
+        "kind": 2,
+        "importPath": "src.layouts.menuPrincipal",
+        "description": "src.layouts.menuPrincipal",
+        "peekOfCode": "def menuPrincipal():\n    while True:\n        limparTerminal()\n        print(\"==\" * 21)\n        print(formatarTexto_negrito(\"Menu Principal\"))\n        print(\"1 - CRUD de Compras\")\n        print(\"2 - CRUD de Produtos\")\n        print(\"3 - CRUD de Usuários\")\n        print(\"4 - CRUD de Vendedores\")\n        print(\"0 - Sair\")",
+        "detail": "src.layouts.menuPrincipal",
+        "documentation": {}
+    },
+    {
+        "label": "menuProduto",
+        "kind": 2,
+        "importPath": "src.layouts.menuProduto",
+        "description": "src.layouts.menuProduto",
+        "peekOfCode": "def menuProduto():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Produto\"))\n        print(\"1 - Cadastrar Produto\")\n        print(\"2 - Listar Produtos\")\n        print(\"3 - Atualizar Produto\")\n        print(\"4 - Deletar Produto\")\n        print(\"0 - Voltar\")",
+        "detail": "src.layouts.menuProduto",
+        "documentation": {}
+    },
+    {
+        "label": "menuUsuario",
+        "kind": 2,
+        "importPath": "src.layouts.menuUsuario",
+        "description": "src.layouts.menuUsuario",
+        "peekOfCode": "def menuUsuario():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Usuário\"))\n        print(\"1 - Cadastrar Usuário\")\n        print(\"2 - Listar Usuários\")\n        print(\"3 - Atualizar Usuário\")\n        print(\"4 - Deletar Usuário\")\n        print(\"5 - Adicionar Favoritos\")",
+        "detail": "src.layouts.menuUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "menuVendedor",
+        "kind": 2,
+        "importPath": "src.layouts.menuVendedor",
+        "description": "src.layouts.menuVendedor",
+        "peekOfCode": "def menuVendedor():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Vendedor\"))\n        print(\"1 - Cadastrar Vendedor\")\n        print(\"2 - Listar Vendedores\")\n        print(\"3 - Atualizar Vendedor\")\n        print(\"4 - Deletar Vendedor\")\n        print(\"0 - Voltar\")",
+        "detail": "src.layouts.menuVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "criarCompra",
+        "kind": 2,
+        "importPath": "src.utils.criarCompra",
+        "description": "src.utils.criarCompra",
+        "peekOfCode": "def criarCompra(isRequired: bool, compra: Compra = None) -> Optional[Compra]:\n    try:\n        diaCompraText = f\"Digite o {formatarTexto_negrito(\"dia\")} da compra: \"\n        mesCompraText = f\"Digite o {formatarTexto_negrito(\"mês\")} da compra: \"\n        anoCompraText = f\"Digite o {formatarTexto_negrito(\"ano\")} da compra: \"\n        if compra:\n            diaCompraText = f\"Digite o novo {formatarTexto_negrito('dia')} da compra {formatarTexto_italico(f'(atual: {compra.dataCompra.split(\"/\")[0]})')}: \"\n            mesCompraText = f\"Digite o novo {formatarTexto_negrito('mês')} da compra {formatarTexto_italico(f'(atual: {compra.dataCompra.split(\"/\")[1]})')}: \"\n            anoCompraText = f\"Digite o novo {formatarTexto_negrito('ano')} da compra {formatarTexto_italico(f'(atual: {compra.dataCompra.split(\"/\")[2]})')}: \"\n        diaCompra = solicitarInput(diaCompraText, isRequired)",
+        "detail": "src.utils.criarCompra",
+        "documentation": {}
+    },
+    {
+        "label": "criarProduto",
+        "kind": 2,
+        "importPath": "src.utils.criarProduto",
+        "description": "src.utils.criarProduto",
+        "peekOfCode": "def criarProduto(isRequired: bool, produto: Produto = None) -> Optional[Produto]:\n    try:\n        nomeText = f\"Digite o {formatarTexto_negrito('nome')} do produto: \"\n        descricaoText = f\"Digite a {formatarTexto_negrito('descrição')} do produto: \"\n        precoText = f\"Digite o {formatarTexto_negrito('preço')} do produto: \"\n        estoqueText = f\"Digite o {formatarTexto_negrito('estoque')} do produto: \"\n        if produto:\n            nomeText = f\"Digite o novo {formatarTexto_negrito('nome')} do produto {formatarTexto_italico(f\"(atual: {produto.nome})\")}: \"\n            descricaoText = f\"Digite a nova {formatarTexto_negrito('descrição')} do produto {formatarTexto_italico(f\"(atual: {produto.descricao})\")}: \"\n            precoText = f\"Digite o novo {formatarTexto_negrito('preço')} do produto {formatarTexto_italico(f\"(atual: {produto.preco})\")}: \"",
+        "detail": "src.utils.criarProduto",
+        "documentation": {}
+    },
+    {
+        "label": "criarUsuario",
+        "kind": 2,
+        "importPath": "src.utils.criarUsuario",
+        "description": "src.utils.criarUsuario",
+        "peekOfCode": "def criarUsuario(isRequired: bool, usuario: Usuario = None) -> Optional[Usuario]:\n    try:\n        nomeText = f\"Digite o {formatarTexto_negrito(\"nome\")} do usuário: \"\n        rgText = f\"Digite o {formatarTexto_negrito(\"rg\")} do usuário: \"\n        enderecoText = f\"Digite o {formatarTexto_negrito(\"endereço\")} do usuário: \"\n        if usuario:\n            nomeText = f\"Digite o novo {formatarTexto_negrito('nome')} do usuário {formatarTexto_italico(f\"(atual: {usuario.nome})\")}: \"\n            rgText = f\"Digite o novo {formatarTexto_negrito('rg')} do usuário {formatarTexto_italico(f\"(atual: {usuario.rg})\")}: \"\n            enderecoText = f\"Digite o novo {formatarTexto_negrito('endereço')} do usuário {formatarTexto_italico(f\"(atual: {usuario.endereco})\")}: \"\n        nome = str(solicitarInput(nomeText, isRequired)).lower()",
+        "detail": "src.utils.criarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "criarVendedor",
+        "kind": 2,
+        "importPath": "src.utils.criarVendedor",
+        "description": "src.utils.criarVendedor",
+        "peekOfCode": "def criarVendedor(isRequired: bool, vendedor: Vendedor = None) -> Optional[Vendedor]:\n    try:\n        nomeText = f\"Digite o {formatarTexto_negrito(\"nome\")} do vendedor: \"\n        rgText = f\"Digite o {formatarTexto_negrito(\"rg\")} do vendedor: \"\n        if vendedor:\n            nomeText = f\"Digite o novo {formatarTexto_negrito('nome')} do vendedor {formatarTexto_italico(f\"(atual: {vendedor.nome})\")}: \"\n            rgText = f\"Digite o novo {formatarTexto_negrito('rg')} do vendedor {formatarTexto_italico(f\"(atual: {vendedor.rg})\")}: \"\n        nome = solicitarInput(nomeText, isRequired)\n        rg = solicitarInput(rgText, isRequired)\n        vendedor = Vendedor(nome=nome, rg=rg, produtos=[])",
+        "detail": "src.utils.criarVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito(texto):\n    return f\"\\033[1m{texto}\\033[0m\"\ndef formatarTexto_italico(texto):\n    return f\"\\033[3m{texto}\\033[0m\"\ndef formatarTexto_sublinhado(texto):\n    return f\"\\033[4m{texto}\\033[0m\"\ndef formatarTexto_tachado(texto):\n    return f\"\\033[9m{texto}\\033[0m\"\ndef formatarTexto_amarelo(texto):\n    return f\"\\033[33m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico(texto):\n    return f\"\\033[3m{texto}\\033[0m\"\ndef formatarTexto_sublinhado(texto):\n    return f\"\\033[4m{texto}\\033[0m\"\ndef formatarTexto_tachado(texto):\n    return f\"\\033[9m{texto}\\033[0m\"\ndef formatarTexto_amarelo(texto):\n    return f\"\\033[33m{texto}\\033[0m\"\ndef formatarTexto_azul(texto):\n    return f\"\\033[34m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado(texto):\n    return f\"\\033[4m{texto}\\033[0m\"\ndef formatarTexto_tachado(texto):\n    return f\"\\033[9m{texto}\\033[0m\"\ndef formatarTexto_amarelo(texto):\n    return f\"\\033[33m{texto}\\033[0m\"\ndef formatarTexto_azul(texto):\n    return f\"\\033[34m{texto}\\033[0m\"\ndef formatarTexto_verde(texto):\n    return f\"\\033[32m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado(texto):\n    return f\"\\033[9m{texto}\\033[0m\"\ndef formatarTexto_amarelo(texto):\n    return f\"\\033[33m{texto}\\033[0m\"\ndef formatarTexto_azul(texto):\n    return f\"\\033[34m{texto}\\033[0m\"\ndef formatarTexto_verde(texto):\n    return f\"\\033[32m{texto}\\033[0m\"\ndef formatarTexto_vermelho(texto):\n    return f\"\\033[31m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_amarelo",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_amarelo(texto):\n    return f\"\\033[33m{texto}\\033[0m\"\ndef formatarTexto_azul(texto):\n    return f\"\\033[34m{texto}\\033[0m\"\ndef formatarTexto_verde(texto):\n    return f\"\\033[32m{texto}\\033[0m\"\ndef formatarTexto_vermelho(texto):\n    return f\"\\033[31m{texto}\\033[0m\"\ndef formatarTexto_ciano(texto):\n    return f\"\\033[36m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_azul",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_azul(texto):\n    return f\"\\033[34m{texto}\\033[0m\"\ndef formatarTexto_verde(texto):\n    return f\"\\033[32m{texto}\\033[0m\"\ndef formatarTexto_vermelho(texto):\n    return f\"\\033[31m{texto}\\033[0m\"\ndef formatarTexto_ciano(texto):\n    return f\"\\033[36m{texto}\\033[0m\"\ndef formatarTexto_magenta(texto):\n    return f\"\\033[35m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_verde",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_verde(texto):\n    return f\"\\033[32m{texto}\\033[0m\"\ndef formatarTexto_vermelho(texto):\n    return f\"\\033[31m{texto}\\033[0m\"\ndef formatarTexto_ciano(texto):\n    return f\"\\033[36m{texto}\\033[0m\"\ndef formatarTexto_magenta(texto):\n    return f\"\\033[35m{texto}\\033[0m\"\ndef formatarTexto_branco(texto):\n    return f\"\\033[37m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_vermelho(texto):\n    return f\"\\033[31m{texto}\\033[0m\"\ndef formatarTexto_ciano(texto):\n    return f\"\\033[36m{texto}\\033[0m\"\ndef formatarTexto_magenta(texto):\n    return f\"\\033[35m{texto}\\033[0m\"\ndef formatarTexto_branco(texto):\n    return f\"\\033[37m{texto}\\033[0m\"\ndef formatarTexto_preto(texto):\n    return f\"\\033[30m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_ciano",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_ciano(texto):\n    return f\"\\033[36m{texto}\\033[0m\"\ndef formatarTexto_magenta(texto):\n    return f\"\\033[35m{texto}\\033[0m\"\ndef formatarTexto_branco(texto):\n    return f\"\\033[37m{texto}\\033[0m\"\ndef formatarTexto_preto(texto):\n    return f\"\\033[30m{texto}\\033[0m\"\ndef formatarTexto_fundoAmarelo(texto):\n    return f\"\\033[43m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_magenta",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_magenta(texto):\n    return f\"\\033[35m{texto}\\033[0m\"\ndef formatarTexto_branco(texto):\n    return f\"\\033[37m{texto}\\033[0m\"\ndef formatarTexto_preto(texto):\n    return f\"\\033[30m{texto}\\033[0m\"\ndef formatarTexto_fundoAmarelo(texto):\n    return f\"\\033[43m{texto}\\033[0m\"\ndef formatarTexto_fundoAzul(texto):\n    return f\"\\033[44m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_branco",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_branco(texto):\n    return f\"\\033[37m{texto}\\033[0m\"\ndef formatarTexto_preto(texto):\n    return f\"\\033[30m{texto}\\033[0m\"\ndef formatarTexto_fundoAmarelo(texto):\n    return f\"\\033[43m{texto}\\033[0m\"\ndef formatarTexto_fundoAzul(texto):\n    return f\"\\033[44m{texto}\\033[0m\"\ndef formatarTexto_fundoVerde(texto):\n    return f\"\\033[42m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_preto",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_preto(texto):\n    return f\"\\033[30m{texto}\\033[0m\"\ndef formatarTexto_fundoAmarelo(texto):\n    return f\"\\033[43m{texto}\\033[0m\"\ndef formatarTexto_fundoAzul(texto):\n    return f\"\\033[44m{texto}\\033[0m\"\ndef formatarTexto_fundoVerde(texto):\n    return f\"\\033[42m{texto}\\033[0m\"\ndef formatarTexto_fundoVermelho(texto):\n    return f\"\\033[41m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_fundoAmarelo",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_fundoAmarelo(texto):\n    return f\"\\033[43m{texto}\\033[0m\"\ndef formatarTexto_fundoAzul(texto):\n    return f\"\\033[44m{texto}\\033[0m\"\ndef formatarTexto_fundoVerde(texto):\n    return f\"\\033[42m{texto}\\033[0m\"\ndef formatarTexto_fundoVermelho(texto):\n    return f\"\\033[41m{texto}\\033[0m\"\ndef formatarTexto_fundoCiano(texto):\n    return f\"\\033[46m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_fundoAzul",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_fundoAzul(texto):\n    return f\"\\033[44m{texto}\\033[0m\"\ndef formatarTexto_fundoVerde(texto):\n    return f\"\\033[42m{texto}\\033[0m\"\ndef formatarTexto_fundoVermelho(texto):\n    return f\"\\033[41m{texto}\\033[0m\"\ndef formatarTexto_fundoCiano(texto):\n    return f\"\\033[46m{texto}\\033[0m\"\ndef formatarTexto_fundoMagenta(texto):\n    return f\"\\033[45m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_fundoVerde",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_fundoVerde(texto):\n    return f\"\\033[42m{texto}\\033[0m\"\ndef formatarTexto_fundoVermelho(texto):\n    return f\"\\033[41m{texto}\\033[0m\"\ndef formatarTexto_fundoCiano(texto):\n    return f\"\\033[46m{texto}\\033[0m\"\ndef formatarTexto_fundoMagenta(texto):\n    return f\"\\033[45m{texto}\\033[0m\"\ndef formatarTexto_fundoBranco(texto):\n    return f\"\\033[47m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_fundoVermelho",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_fundoVermelho(texto):\n    return f\"\\033[41m{texto}\\033[0m\"\ndef formatarTexto_fundoCiano(texto):\n    return f\"\\033[46m{texto}\\033[0m\"\ndef formatarTexto_fundoMagenta(texto):\n    return f\"\\033[45m{texto}\\033[0m\"\ndef formatarTexto_fundoBranco(texto):\n    return f\"\\033[47m{texto}\\033[0m\"\ndef formatarTexto_fundoPreto(texto):\n    return f\"\\033[40m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_fundoCiano",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_fundoCiano(texto):\n    return f\"\\033[46m{texto}\\033[0m\"\ndef formatarTexto_fundoMagenta(texto):\n    return f\"\\033[45m{texto}\\033[0m\"\ndef formatarTexto_fundoBranco(texto):\n    return f\"\\033[47m{texto}\\033[0m\"\ndef formatarTexto_fundoPreto(texto):\n    return f\"\\033[40m{texto}\\033[0m\"\ndef formatarTexto_negrito_amarelo(texto):\n    return f\"\\033[1;33m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_fundoMagenta",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_fundoMagenta(texto):\n    return f\"\\033[45m{texto}\\033[0m\"\ndef formatarTexto_fundoBranco(texto):\n    return f\"\\033[47m{texto}\\033[0m\"\ndef formatarTexto_fundoPreto(texto):\n    return f\"\\033[40m{texto}\\033[0m\"\ndef formatarTexto_negrito_amarelo(texto):\n    return f\"\\033[1;33m{texto}\\033[0m\"\ndef formatarTexto_negrito_azul(texto):\n    return f\"\\033[1;34m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_fundoBranco",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_fundoBranco(texto):\n    return f\"\\033[47m{texto}\\033[0m\"\ndef formatarTexto_fundoPreto(texto):\n    return f\"\\033[40m{texto}\\033[0m\"\ndef formatarTexto_negrito_amarelo(texto):\n    return f\"\\033[1;33m{texto}\\033[0m\"\ndef formatarTexto_negrito_azul(texto):\n    return f\"\\033[1;34m{texto}\\033[0m\"\ndef formatarTexto_negrito_verde(texto):\n    return f\"\\033[1;32m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_fundoPreto",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_fundoPreto(texto):\n    return f\"\\033[40m{texto}\\033[0m\"\ndef formatarTexto_negrito_amarelo(texto):\n    return f\"\\033[1;33m{texto}\\033[0m\"\ndef formatarTexto_negrito_azul(texto):\n    return f\"\\033[1;34m{texto}\\033[0m\"\ndef formatarTexto_negrito_verde(texto):\n    return f\"\\033[1;32m{texto}\\033[0m\"\ndef formatarTexto_negrito_vermelho(texto):\n    return f\"\\033[1;31m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_amarelo",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_amarelo(texto):\n    return f\"\\033[1;33m{texto}\\033[0m\"\ndef formatarTexto_negrito_azul(texto):\n    return f\"\\033[1;34m{texto}\\033[0m\"\ndef formatarTexto_negrito_verde(texto):\n    return f\"\\033[1;32m{texto}\\033[0m\"\ndef formatarTexto_negrito_vermelho(texto):\n    return f\"\\033[1;31m{texto}\\033[0m\"\ndef formatarTexto_negrito_ciano(texto):\n    return f\"\\033[1;36m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_azul",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_azul(texto):\n    return f\"\\033[1;34m{texto}\\033[0m\"\ndef formatarTexto_negrito_verde(texto):\n    return f\"\\033[1;32m{texto}\\033[0m\"\ndef formatarTexto_negrito_vermelho(texto):\n    return f\"\\033[1;31m{texto}\\033[0m\"\ndef formatarTexto_negrito_ciano(texto):\n    return f\"\\033[1;36m{texto}\\033[0m\"\ndef formatarTexto_negrito_magenta(texto):\n    return f\"\\033[1;35m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_verde",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_verde(texto):\n    return f\"\\033[1;32m{texto}\\033[0m\"\ndef formatarTexto_negrito_vermelho(texto):\n    return f\"\\033[1;31m{texto}\\033[0m\"\ndef formatarTexto_negrito_ciano(texto):\n    return f\"\\033[1;36m{texto}\\033[0m\"\ndef formatarTexto_negrito_magenta(texto):\n    return f\"\\033[1;35m{texto}\\033[0m\"\ndef formatarTexto_negrito_branco(texto):\n    return f\"\\033[1;37m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_vermelho",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_vermelho(texto):\n    return f\"\\033[1;31m{texto}\\033[0m\"\ndef formatarTexto_negrito_ciano(texto):\n    return f\"\\033[1;36m{texto}\\033[0m\"\ndef formatarTexto_negrito_magenta(texto):\n    return f\"\\033[1;35m{texto}\\033[0m\"\ndef formatarTexto_negrito_branco(texto):\n    return f\"\\033[1;37m{texto}\\033[0m\"\ndef formatarTexto_negrito_preto(texto):\n    return f\"\\033[1;30m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_ciano",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_ciano(texto):\n    return f\"\\033[1;36m{texto}\\033[0m\"\ndef formatarTexto_negrito_magenta(texto):\n    return f\"\\033[1;35m{texto}\\033[0m\"\ndef formatarTexto_negrito_branco(texto):\n    return f\"\\033[1;37m{texto}\\033[0m\"\ndef formatarTexto_negrito_preto(texto):\n    return f\"\\033[1;30m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoAmarelo(texto):\n    return f\"\\033[1;43m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_magenta",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_magenta(texto):\n    return f\"\\033[1;35m{texto}\\033[0m\"\ndef formatarTexto_negrito_branco(texto):\n    return f\"\\033[1;37m{texto}\\033[0m\"\ndef formatarTexto_negrito_preto(texto):\n    return f\"\\033[1;30m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoAmarelo(texto):\n    return f\"\\033[1;43m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoAzul(texto):\n    return f\"\\033[1;44m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_branco",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_branco(texto):\n    return f\"\\033[1;37m{texto}\\033[0m\"\ndef formatarTexto_negrito_preto(texto):\n    return f\"\\033[1;30m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoAmarelo(texto):\n    return f\"\\033[1;43m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoAzul(texto):\n    return f\"\\033[1;44m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoVerde(texto):\n    return f\"\\033[1;42m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_preto",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_preto(texto):\n    return f\"\\033[1;30m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoAmarelo(texto):\n    return f\"\\033[1;43m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoAzul(texto):\n    return f\"\\033[1;44m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoVerde(texto):\n    return f\"\\033[1;42m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoVermelho(texto):\n    return f\"\\033[1;41m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_fundoAmarelo",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_fundoAmarelo(texto):\n    return f\"\\033[1;43m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoAzul(texto):\n    return f\"\\033[1;44m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoVerde(texto):\n    return f\"\\033[1;42m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoVermelho(texto):\n    return f\"\\033[1;41m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoCiano(texto):\n    return f\"\\033[1;46m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_fundoAzul",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_fundoAzul(texto):\n    return f\"\\033[1;44m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoVerde(texto):\n    return f\"\\033[1;42m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoVermelho(texto):\n    return f\"\\033[1;41m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoCiano(texto):\n    return f\"\\033[1;46m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoMagenta(texto):\n    return f\"\\033[1;45m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_fundoVerde",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_fundoVerde(texto):\n    return f\"\\033[1;42m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoVermelho(texto):\n    return f\"\\033[1;41m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoCiano(texto):\n    return f\"\\033[1;46m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoMagenta(texto):\n    return f\"\\033[1;45m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoBranco(texto):\n    return f\"\\033[1;47m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_fundoVermelho",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_fundoVermelho(texto):\n    return f\"\\033[1;41m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoCiano(texto):\n    return f\"\\033[1;46m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoMagenta(texto):\n    return f\"\\033[1;45m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoBranco(texto):\n    return f\"\\033[1;47m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoPreto(texto):\n    return f\"\\033[1;40m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_fundoCiano",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_fundoCiano(texto):\n    return f\"\\033[1;46m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoMagenta(texto):\n    return f\"\\033[1;45m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoBranco(texto):\n    return f\"\\033[1;47m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoPreto(texto):\n    return f\"\\033[1;40m{texto}\\033[0m\"\ndef formatarTexto_italico_amarelo(texto):\n    return f\"\\033[3;33m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_fundoMagenta",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_fundoMagenta(texto):\n    return f\"\\033[1;45m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoBranco(texto):\n    return f\"\\033[1;47m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoPreto(texto):\n    return f\"\\033[1;40m{texto}\\033[0m\"\ndef formatarTexto_italico_amarelo(texto):\n    return f\"\\033[3;33m{texto}\\033[0m\"\ndef formatarTexto_italico_azul(texto):\n    return f\"\\033[3;34m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_fundoBranco",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_fundoBranco(texto):\n    return f\"\\033[1;47m{texto}\\033[0m\"\ndef formatarTexto_negrito_fundoPreto(texto):\n    return f\"\\033[1;40m{texto}\\033[0m\"\ndef formatarTexto_italico_amarelo(texto):\n    return f\"\\033[3;33m{texto}\\033[0m\"\ndef formatarTexto_italico_azul(texto):\n    return f\"\\033[3;34m{texto}\\033[0m\"\ndef formatarTexto_italico_verde(texto):\n    return f\"\\033[3;32m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito_fundoPreto",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_negrito_fundoPreto(texto):\n    return f\"\\033[1;40m{texto}\\033[0m\"\ndef formatarTexto_italico_amarelo(texto):\n    return f\"\\033[3;33m{texto}\\033[0m\"\ndef formatarTexto_italico_azul(texto):\n    return f\"\\033[3;34m{texto}\\033[0m\"\ndef formatarTexto_italico_verde(texto):\n    return f\"\\033[3;32m{texto}\\033[0m\"\ndef formatarTexto_italico_vermelho(texto):\n    return f\"\\033[3;31m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_amarelo",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_amarelo(texto):\n    return f\"\\033[3;33m{texto}\\033[0m\"\ndef formatarTexto_italico_azul(texto):\n    return f\"\\033[3;34m{texto}\\033[0m\"\ndef formatarTexto_italico_verde(texto):\n    return f\"\\033[3;32m{texto}\\033[0m\"\ndef formatarTexto_italico_vermelho(texto):\n    return f\"\\033[3;31m{texto}\\033[0m\"\ndef formatarTexto_italico_ciano(texto):\n    return f\"\\033[3;36m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_azul",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_azul(texto):\n    return f\"\\033[3;34m{texto}\\033[0m\"\ndef formatarTexto_italico_verde(texto):\n    return f\"\\033[3;32m{texto}\\033[0m\"\ndef formatarTexto_italico_vermelho(texto):\n    return f\"\\033[3;31m{texto}\\033[0m\"\ndef formatarTexto_italico_ciano(texto):\n    return f\"\\033[3;36m{texto}\\033[0m\"\ndef formatarTexto_italico_magenta(texto):\n    return f\"\\033[3;35m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_verde",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_verde(texto):\n    return f\"\\033[3;32m{texto}\\033[0m\"\ndef formatarTexto_italico_vermelho(texto):\n    return f\"\\033[3;31m{texto}\\033[0m\"\ndef formatarTexto_italico_ciano(texto):\n    return f\"\\033[3;36m{texto}\\033[0m\"\ndef formatarTexto_italico_magenta(texto):\n    return f\"\\033[3;35m{texto}\\033[0m\"\ndef formatarTexto_italico_branco(texto):\n    return f\"\\033[3;37m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_vermelho",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_vermelho(texto):\n    return f\"\\033[3;31m{texto}\\033[0m\"\ndef formatarTexto_italico_ciano(texto):\n    return f\"\\033[3;36m{texto}\\033[0m\"\ndef formatarTexto_italico_magenta(texto):\n    return f\"\\033[3;35m{texto}\\033[0m\"\ndef formatarTexto_italico_branco(texto):\n    return f\"\\033[3;37m{texto}\\033[0m\"\ndef formatarTexto_italico_preto(texto):\n    return f\"\\033[3;30m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_ciano",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_ciano(texto):\n    return f\"\\033[3;36m{texto}\\033[0m\"\ndef formatarTexto_italico_magenta(texto):\n    return f\"\\033[3;35m{texto}\\033[0m\"\ndef formatarTexto_italico_branco(texto):\n    return f\"\\033[3;37m{texto}\\033[0m\"\ndef formatarTexto_italico_preto(texto):\n    return f\"\\033[3;30m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoAmarelo(texto):\n    return f\"\\033[3;43m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_magenta",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_magenta(texto):\n    return f\"\\033[3;35m{texto}\\033[0m\"\ndef formatarTexto_italico_branco(texto):\n    return f\"\\033[3;37m{texto}\\033[0m\"\ndef formatarTexto_italico_preto(texto):\n    return f\"\\033[3;30m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoAmarelo(texto):\n    return f\"\\033[3;43m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoAzul(texto):\n    return f\"\\033[3;44m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_branco",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_branco(texto):\n    return f\"\\033[3;37m{texto}\\033[0m\"\ndef formatarTexto_italico_preto(texto):\n    return f\"\\033[3;30m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoAmarelo(texto):\n    return f\"\\033[3;43m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoAzul(texto):\n    return f\"\\033[3;44m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoVerde(texto):\n    return f\"\\033[3;42m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_preto",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_preto(texto):\n    return f\"\\033[3;30m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoAmarelo(texto):\n    return f\"\\033[3;43m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoAzul(texto):\n    return f\"\\033[3;44m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoVerde(texto):\n    return f\"\\033[3;42m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoVermelho(texto):\n    return f\"\\033[3;41m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_fundoAmarelo",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_fundoAmarelo(texto):\n    return f\"\\033[3;43m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoAzul(texto):\n    return f\"\\033[3;44m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoVerde(texto):\n    return f\"\\033[3;42m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoVermelho(texto):\n    return f\"\\033[3;41m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoCiano(texto):\n    return f\"\\033[3;46m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_fundoAzul",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_fundoAzul(texto):\n    return f\"\\033[3;44m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoVerde(texto):\n    return f\"\\033[3;42m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoVermelho(texto):\n    return f\"\\033[3;41m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoCiano(texto):\n    return f\"\\033[3;46m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoMagenta(texto):\n    return f\"\\033[3;45m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_fundoVerde",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_fundoVerde(texto):\n    return f\"\\033[3;42m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoVermelho(texto):\n    return f\"\\033[3;41m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoCiano(texto):\n    return f\"\\033[3;46m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoMagenta(texto):\n    return f\"\\033[3;45m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoBranco(texto):\n    return f\"\\033[3;47m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_fundoVermelho",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_fundoVermelho(texto):\n    return f\"\\033[3;41m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoCiano(texto):\n    return f\"\\033[3;46m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoMagenta(texto):\n    return f\"\\033[3;45m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoBranco(texto):\n    return f\"\\033[3;47m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoPreto(texto):\n    return f\"\\033[3;40m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_fundoCiano",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_fundoCiano(texto):\n    return f\"\\033[3;46m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoMagenta(texto):\n    return f\"\\033[3;45m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoBranco(texto):\n    return f\"\\033[3;47m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoPreto(texto):\n    return f\"\\033[3;40m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_amarelo(texto):\n    return f\"\\033[4;33m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_fundoMagenta",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_fundoMagenta(texto):\n    return f\"\\033[3;45m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoBranco(texto):\n    return f\"\\033[3;47m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoPreto(texto):\n    return f\"\\033[3;40m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_amarelo(texto):\n    return f\"\\033[4;33m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_azul(texto):\n    return f\"\\033[4;34m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_fundoBranco",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_fundoBranco(texto):\n    return f\"\\033[3;47m{texto}\\033[0m\"\ndef formatarTexto_italico_fundoPreto(texto):\n    return f\"\\033[3;40m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_amarelo(texto):\n    return f\"\\033[4;33m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_azul(texto):\n    return f\"\\033[4;34m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_verde(texto):\n    return f\"\\033[4;32m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico_fundoPreto",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_italico_fundoPreto(texto):\n    return f\"\\033[3;40m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_amarelo(texto):\n    return f\"\\033[4;33m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_azul(texto):\n    return f\"\\033[4;34m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_verde(texto):\n    return f\"\\033[4;32m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_vermelho(texto):\n    return f\"\\033[4;31m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_amarelo",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_amarelo(texto):\n    return f\"\\033[4;33m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_azul(texto):\n    return f\"\\033[4;34m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_verde(texto):\n    return f\"\\033[4;32m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_vermelho(texto):\n    return f\"\\033[4;31m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_ciano(texto):\n    return f\"\\033[4;36m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_azul",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_azul(texto):\n    return f\"\\033[4;34m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_verde(texto):\n    return f\"\\033[4;32m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_vermelho(texto):\n    return f\"\\033[4;31m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_ciano(texto):\n    return f\"\\033[4;36m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_magenta(texto):\n    return f\"\\033[4;35m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_verde",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_verde(texto):\n    return f\"\\033[4;32m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_vermelho(texto):\n    return f\"\\033[4;31m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_ciano(texto):\n    return f\"\\033[4;36m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_magenta(texto):\n    return f\"\\033[4;35m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_branco(texto):\n    return f\"\\033[4;37m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_vermelho",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_vermelho(texto):\n    return f\"\\033[4;31m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_ciano(texto):\n    return f\"\\033[4;36m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_magenta(texto):\n    return f\"\\033[4;35m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_branco(texto):\n    return f\"\\033[4;37m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_preto(texto):\n    return f\"\\033[4;30m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_ciano",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_ciano(texto):\n    return f\"\\033[4;36m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_magenta(texto):\n    return f\"\\033[4;35m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_branco(texto):\n    return f\"\\033[4;37m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_preto(texto):\n    return f\"\\033[4;30m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoAmarelo(texto):\n    return f\"\\033[4;43m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_magenta",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_magenta(texto):\n    return f\"\\033[4;35m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_branco(texto):\n    return f\"\\033[4;37m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_preto(texto):\n    return f\"\\033[4;30m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoAmarelo(texto):\n    return f\"\\033[4;43m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoAzul(texto):\n    return f\"\\033[4;44m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_branco",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_branco(texto):\n    return f\"\\033[4;37m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_preto(texto):\n    return f\"\\033[4;30m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoAmarelo(texto):\n    return f\"\\033[4;43m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoAzul(texto):\n    return f\"\\033[4;44m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoVerde(texto):\n    return f\"\\033[4;42m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_preto",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_preto(texto):\n    return f\"\\033[4;30m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoAmarelo(texto):\n    return f\"\\033[4;43m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoAzul(texto):\n    return f\"\\033[4;44m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoVerde(texto):\n    return f\"\\033[4;42m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoVermelho(texto):\n    return f\"\\033[4;41m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_fundoAmarelo",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_fundoAmarelo(texto):\n    return f\"\\033[4;43m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoAzul(texto):\n    return f\"\\033[4;44m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoVerde(texto):\n    return f\"\\033[4;42m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoVermelho(texto):\n    return f\"\\033[4;41m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoCiano(texto):\n    return f\"\\033[4;46m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_fundoAzul",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_fundoAzul(texto):\n    return f\"\\033[4;44m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoVerde(texto):\n    return f\"\\033[4;42m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoVermelho(texto):\n    return f\"\\033[4;41m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoCiano(texto):\n    return f\"\\033[4;46m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoMagenta(texto):\n    return f\"\\033[4;45m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_fundoVerde",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_fundoVerde(texto):\n    return f\"\\033[4;42m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoVermelho(texto):\n    return f\"\\033[4;41m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoCiano(texto):\n    return f\"\\033[4;46m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoMagenta(texto):\n    return f\"\\033[4;45m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoBranco(texto):\n    return f\"\\033[4;47m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_fundoVermelho",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_fundoVermelho(texto):\n    return f\"\\033[4;41m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoCiano(texto):\n    return f\"\\033[4;46m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoMagenta(texto):\n    return f\"\\033[4;45m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoBranco(texto):\n    return f\"\\033[4;47m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoPreto(texto):\n    return f\"\\033[4;40m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_fundoCiano",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_fundoCiano(texto):\n    return f\"\\033[4;46m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoMagenta(texto):\n    return f\"\\033[4;45m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoBranco(texto):\n    return f\"\\033[4;47m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoPreto(texto):\n    return f\"\\033[4;40m{texto}\\033[0m\"\ndef formatarTexto_tachado_amarelo(texto):\n    return f\"\\033[9;33m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_fundoMagenta",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_fundoMagenta(texto):\n    return f\"\\033[4;45m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoBranco(texto):\n    return f\"\\033[4;47m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoPreto(texto):\n    return f\"\\033[4;40m{texto}\\033[0m\"\ndef formatarTexto_tachado_amarelo(texto):\n    return f\"\\033[9;33m{texto}\\033[0m\"\ndef formatarTexto_tachado_azul(texto):\n    return f\"\\033[9;34m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_fundoBranco",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_fundoBranco(texto):\n    return f\"\\033[4;47m{texto}\\033[0m\"\ndef formatarTexto_sublinhado_fundoPreto(texto):\n    return f\"\\033[4;40m{texto}\\033[0m\"\ndef formatarTexto_tachado_amarelo(texto):\n    return f\"\\033[9;33m{texto}\\033[0m\"\ndef formatarTexto_tachado_azul(texto):\n    return f\"\\033[9;34m{texto}\\033[0m\"\ndef formatarTexto_tachado_verde(texto):\n    return f\"\\033[9;32m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_sublinhado_fundoPreto",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_sublinhado_fundoPreto(texto):\n    return f\"\\033[4;40m{texto}\\033[0m\"\ndef formatarTexto_tachado_amarelo(texto):\n    return f\"\\033[9;33m{texto}\\033[0m\"\ndef formatarTexto_tachado_azul(texto):\n    return f\"\\033[9;34m{texto}\\033[0m\"\ndef formatarTexto_tachado_verde(texto):\n    return f\"\\033[9;32m{texto}\\033[0m\"\ndef formatarTexto_tachado_vermelho(texto):\n    return f\"\\033[9;31m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_amarelo",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_amarelo(texto):\n    return f\"\\033[9;33m{texto}\\033[0m\"\ndef formatarTexto_tachado_azul(texto):\n    return f\"\\033[9;34m{texto}\\033[0m\"\ndef formatarTexto_tachado_verde(texto):\n    return f\"\\033[9;32m{texto}\\033[0m\"\ndef formatarTexto_tachado_vermelho(texto):\n    return f\"\\033[9;31m{texto}\\033[0m\"\ndef formatarTexto_tachado_ciano(texto):\n    return f\"\\033[9;36m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_azul",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_azul(texto):\n    return f\"\\033[9;34m{texto}\\033[0m\"\ndef formatarTexto_tachado_verde(texto):\n    return f\"\\033[9;32m{texto}\\033[0m\"\ndef formatarTexto_tachado_vermelho(texto):\n    return f\"\\033[9;31m{texto}\\033[0m\"\ndef formatarTexto_tachado_ciano(texto):\n    return f\"\\033[9;36m{texto}\\033[0m\"\ndef formatarTexto_tachado_magenta(texto):\n    return f\"\\033[9;35m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_verde",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_verde(texto):\n    return f\"\\033[9;32m{texto}\\033[0m\"\ndef formatarTexto_tachado_vermelho(texto):\n    return f\"\\033[9;31m{texto}\\033[0m\"\ndef formatarTexto_tachado_ciano(texto):\n    return f\"\\033[9;36m{texto}\\033[0m\"\ndef formatarTexto_tachado_magenta(texto):\n    return f\"\\033[9;35m{texto}\\033[0m\"\ndef formatarTexto_tachado_branco(texto):\n    return f\"\\033[9;37m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_vermelho",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_vermelho(texto):\n    return f\"\\033[9;31m{texto}\\033[0m\"\ndef formatarTexto_tachado_ciano(texto):\n    return f\"\\033[9;36m{texto}\\033[0m\"\ndef formatarTexto_tachado_magenta(texto):\n    return f\"\\033[9;35m{texto}\\033[0m\"\ndef formatarTexto_tachado_branco(texto):\n    return f\"\\033[9;37m{texto}\\033[0m\"\ndef formatarTexto_tachado_preto(texto):\n    return f\"\\033[9;30m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_ciano",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_ciano(texto):\n    return f\"\\033[9;36m{texto}\\033[0m\"\ndef formatarTexto_tachado_magenta(texto):\n    return f\"\\033[9;35m{texto}\\033[0m\"\ndef formatarTexto_tachado_branco(texto):\n    return f\"\\033[9;37m{texto}\\033[0m\"\ndef formatarTexto_tachado_preto(texto):\n    return f\"\\033[9;30m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoAmarelo(texto):\n    return f\"\\033[9;43m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_magenta",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_magenta(texto):\n    return f\"\\033[9;35m{texto}\\033[0m\"\ndef formatarTexto_tachado_branco(texto):\n    return f\"\\033[9;37m{texto}\\033[0m\"\ndef formatarTexto_tachado_preto(texto):\n    return f\"\\033[9;30m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoAmarelo(texto):\n    return f\"\\033[9;43m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoAzul(texto):\n    return f\"\\033[9;44m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_branco",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_branco(texto):\n    return f\"\\033[9;37m{texto}\\033[0m\"\ndef formatarTexto_tachado_preto(texto):\n    return f\"\\033[9;30m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoAmarelo(texto):\n    return f\"\\033[9;43m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoAzul(texto):\n    return f\"\\033[9;44m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoVerde(texto):\n    return f\"\\033[9;42m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_preto",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_preto(texto):\n    return f\"\\033[9;30m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoAmarelo(texto):\n    return f\"\\033[9;43m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoAzul(texto):\n    return f\"\\033[9;44m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoVerde(texto):\n    return f\"\\033[9;42m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoVermelho(texto):\n    return f\"\\033[9;41m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_fundoAmarelo",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_fundoAmarelo(texto):\n    return f\"\\033[9;43m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoAzul(texto):\n    return f\"\\033[9;44m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoVerde(texto):\n    return f\"\\033[9;42m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoVermelho(texto):\n    return f\"\\033[9;41m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoCiano(texto):\n    return f\"\\033[9;46m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_fundoAzul",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_fundoAzul(texto):\n    return f\"\\033[9;44m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoVerde(texto):\n    return f\"\\033[9;42m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoVermelho(texto):\n    return f\"\\033[9;41m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoCiano(texto):\n    return f\"\\033[9;46m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoMagenta(texto):\n    return f\"\\033[9;45m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_fundoVerde",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_fundoVerde(texto):\n    return f\"\\033[9;42m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoVermelho(texto):\n    return f\"\\033[9;41m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoCiano(texto):\n    return f\"\\033[9;46m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoMagenta(texto):\n    return f\"\\033[9;45m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoBranco(texto):\n    return f\"\\033[9;47m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_fundoVermelho",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_fundoVermelho(texto):\n    return f\"\\033[9;41m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoCiano(texto):\n    return f\"\\033[9;46m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoMagenta(texto):\n    return f\"\\033[9;45m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoBranco(texto):\n    return f\"\\033[9;47m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoPreto(texto):\n    return f\"\\033[9;40m{texto}\\033[0m\"",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_fundoCiano",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_fundoCiano(texto):\n    return f\"\\033[9;46m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoMagenta(texto):\n    return f\"\\033[9;45m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoBranco(texto):\n    return f\"\\033[9;47m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoPreto(texto):\n    return f\"\\033[9;40m{texto}\\033[0m\"\n# Path: src/utils/formatarTexto.py",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_fundoMagenta",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_fundoMagenta(texto):\n    return f\"\\033[9;45m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoBranco(texto):\n    return f\"\\033[9;47m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoPreto(texto):\n    return f\"\\033[9;40m{texto}\\033[0m\"\n# Path: src/utils/formatarTexto.py",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_fundoBranco",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_fundoBranco(texto):\n    return f\"\\033[9;47m{texto}\\033[0m\"\ndef formatarTexto_tachado_fundoPreto(texto):\n    return f\"\\033[9;40m{texto}\\033[0m\"\n# Path: src/utils/formatarTexto.py",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_tachado_fundoPreto",
+        "kind": 2,
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "peekOfCode": "def formatarTexto_tachado_fundoPreto(texto):\n    return f\"\\033[9;40m{texto}\\033[0m\"\n# Path: src/utils/formatarTexto.py",
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "kind": 2,
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "peekOfCode": "def limparTerminal():\n    os.system('cls' if os.name == 'nt' else 'clear')\n# Path src/utils/limparTerminal.py",
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "solicitarInput",
+        "kind": 2,
+        "importPath": "src.utils.solicitarInput",
+        "description": "src.utils.solicitarInput",
+        "peekOfCode": "def solicitarInput(prompt: str, isRequired: bool = False) -> str | None:\n    while True:\n        valor = input(prompt).strip()\n        if isRequired and not valor:\n            print(formatarTexto_amarelo(\"Valor não pode ser vazio\"))\n            continue\n        else:\n            return valor\n# Path: src/utils/solicitarInput.py",
+        "detail": "src.utils.solicitarInput",
         "documentation": {}
     },
     {
