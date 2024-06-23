@@ -144,6 +144,14 @@
         "documentation": {}
     },
     {
+        "label": "Usuario",
+        "importPath": "src.classes.usuario",
+        "description": "src.classes.usuario",
+        "isExtraImport": true,
+        "detail": "src.classes.usuario",
+        "documentation": {}
+    },
+    {
         "label": "GraphDatabase",
         "importPath": "neo4j",
         "description": "neo4j",
@@ -184,147 +192,123 @@
         "documentation": {}
     },
     {
-        "label": "count",
-        "importPath": "src.database.count",
-        "description": "src.database.count",
+        "label": "count_nodes",
+        "importPath": "src.database.count_nodes",
+        "description": "src.database.count_nodes",
         "isExtraImport": true,
-        "detail": "src.database.count",
+        "detail": "src.database.count_nodes",
         "documentation": {}
     },
     {
-        "label": "count",
-        "importPath": "src.database.count",
-        "description": "src.database.count",
+        "label": "count_nodes",
+        "importPath": "src.database.count_nodes",
+        "description": "src.database.count_nodes",
         "isExtraImport": true,
-        "detail": "src.database.count",
+        "detail": "src.database.count_nodes",
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "typing",
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "typing",
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "typing",
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "typing",
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "typing",
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "typing",
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "typing",
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "typing",
         "documentation": {}
     },
     {
-        "label": "formatarTexto_negrito",
-        "importPath": "src.utils.formatarTexto",
-        "description": "src.utils.formatarTexto",
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
         "isExtraImport": true,
-        "detail": "src.utils.formatarTexto",
+        "detail": "src.classes.compra",
         "documentation": {}
     },
     {
-        "label": "formatarTexto_negrito",
-        "importPath": "src.utils.formatarTexto",
-        "description": "src.utils.formatarTexto",
+        "label": "solicitarInput",
+        "importPath": "src.utils.solicitarInput",
+        "description": "src.utils.solicitarInput",
         "isExtraImport": true,
-        "detail": "src.utils.formatarTexto",
+        "detail": "src.utils.solicitarInput",
         "documentation": {}
     },
     {
-        "label": "formatarTexto_negrito",
-        "importPath": "src.utils.formatarTexto",
-        "description": "src.utils.formatarTexto",
+        "label": "solicitarInput",
+        "importPath": "src.utils.solicitarInput",
+        "description": "src.utils.solicitarInput",
         "isExtraImport": true,
-        "detail": "src.utils.formatarTexto",
+        "detail": "src.utils.solicitarInput",
         "documentation": {}
     },
     {
-        "label": "formatarTexto_negrito",
-        "importPath": "src.utils.formatarTexto",
-        "description": "src.utils.formatarTexto",
+        "label": "solicitarInput",
+        "importPath": "src.utils.solicitarInput",
+        "description": "src.utils.solicitarInput",
         "isExtraImport": true,
-        "detail": "src.utils.formatarTexto",
+        "detail": "src.utils.solicitarInput",
         "documentation": {}
     },
     {
-        "label": "formatarTexto_negrito",
-        "importPath": "src.utils.formatarTexto",
-        "description": "src.utils.formatarTexto",
+        "label": "solicitarInput",
+        "importPath": "src.utils.solicitarInput",
+        "description": "src.utils.solicitarInput",
         "isExtraImport": true,
-        "detail": "src.utils.formatarTexto",
-        "documentation": {}
-    },
-    {
-        "label": "formatarTexto_negrito",
-        "importPath": "src.utils.formatarTexto",
-        "description": "src.utils.formatarTexto",
-        "isExtraImport": true,
-        "detail": "src.utils.formatarTexto",
-        "documentation": {}
-    },
-    {
-        "label": "formatarTexto_negrito",
-        "importPath": "src.utils.formatarTexto",
-        "description": "src.utils.formatarTexto",
-        "isExtraImport": true,
-        "detail": "src.utils.formatarTexto",
-        "documentation": {}
-    },
-    {
-        "label": "formatarTexto_negrito",
-        "importPath": "src.utils.formatarTexto",
-        "description": "src.utils.formatarTexto",
-        "isExtraImport": true,
-        "detail": "src.utils.formatarTexto",
+        "detail": "src.utils.solicitarInput",
         "documentation": {}
     },
     {
@@ -432,43 +416,11 @@
         "documentation": {}
     },
     {
-        "label": "adicionarProduto",
-        "importPath": "src.functions.adicionarProduto",
-        "description": "src.functions.adicionarProduto",
+        "label": "formatarTexto_azul",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
         "isExtraImport": true,
-        "detail": "src.functions.adicionarProduto",
-        "documentation": {}
-    },
-    {
-        "label": "listarProduto",
-        "importPath": "src.functions.listarProduto",
-        "description": "src.functions.listarProduto",
-        "isExtraImport": true,
-        "detail": "src.functions.listarProduto",
-        "documentation": {}
-    },
-    {
-        "label": "listarProduto",
-        "importPath": "src.functions.listarProduto",
-        "description": "src.functions.listarProduto",
-        "isExtraImport": true,
-        "detail": "src.functions.listarProduto",
-        "documentation": {}
-    },
-    {
-        "label": "listarProduto",
-        "importPath": "src.functions.listarProduto",
-        "description": "src.functions.listarProduto",
-        "isExtraImport": true,
-        "detail": "src.functions.listarProduto",
-        "documentation": {}
-    },
-    {
-        "label": "removerProduto",
-        "importPath": "src.functions.removerProduto",
-        "description": "src.functions.removerProduto",
-        "isExtraImport": true,
-        "detail": "src.functions.removerProduto",
+        "detail": "src.utils.formatarTexto",
         "documentation": {}
     },
     {
@@ -477,302 +429,6 @@
         "description": "src.classes.vendedor",
         "isExtraImport": true,
         "detail": "src.classes.vendedor",
-        "documentation": {}
-    },
-    {
-        "label": "Vendedor",
-        "importPath": "src.classes.vendedor",
-        "description": "src.classes.vendedor",
-        "isExtraImport": true,
-        "detail": "src.classes.vendedor",
-        "documentation": {}
-    },
-    {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
-        "isExtraImport": true,
-        "detail": "src.classes.compra",
-        "documentation": {}
-    },
-    {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
-        "isExtraImport": true,
-        "detail": "src.classes.compra",
-        "documentation": {}
-    },
-    {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
-        "isExtraImport": true,
-        "detail": "src.classes.compra",
-        "documentation": {}
-    },
-    {
-        "label": "listarUsuario",
-        "importPath": "src.functions.listarUsuario",
-        "description": "src.functions.listarUsuario",
-        "isExtraImport": true,
-        "detail": "src.functions.listarUsuario",
-        "documentation": {}
-    },
-    {
-        "label": "listarUsuario",
-        "importPath": "src.functions.listarUsuario",
-        "description": "src.functions.listarUsuario",
-        "isExtraImport": true,
-        "detail": "src.functions.listarUsuario",
-        "documentation": {}
-    },
-    {
-        "label": "listarUsuario",
-        "importPath": "src.functions.listarUsuario",
-        "description": "src.functions.listarUsuario",
-        "isExtraImport": true,
-        "detail": "src.functions.listarUsuario",
-        "documentation": {}
-    },
-    {
-        "label": "adicionarUsuario",
-        "importPath": "src.functions.adicionarUsuario",
-        "description": "src.functions.adicionarUsuario",
-        "isExtraImport": true,
-        "detail": "src.functions.adicionarUsuario",
-        "documentation": {}
-    },
-    {
-        "label": "cadastrarCompra",
-        "importPath": "src.functions.cadastrarCompra",
-        "description": "src.functions.cadastrarCompra",
-        "isExtraImport": true,
-        "detail": "src.functions.cadastrarCompra",
-        "documentation": {}
-    },
-    {
-        "label": "listarCompra",
-        "importPath": "src.functions.listarCompra",
-        "description": "src.functions.listarCompra",
-        "isExtraImport": true,
-        "detail": "src.functions.listarCompra",
-        "documentation": {}
-    },
-    {
-        "label": "atualizarCompra",
-        "importPath": "src.functions.atualizarCompra",
-        "description": "src.functions.atualizarCompra",
-        "isExtraImport": true,
-        "detail": "src.functions.atualizarCompra",
-        "documentation": {}
-    },
-    {
-        "label": "deletarCompra",
-        "importPath": "src.functions.deletarCompra",
-        "description": "src.functions.deletarCompra",
-        "isExtraImport": true,
-        "detail": "src.functions.deletarCompra",
-        "documentation": {}
-    },
-    {
-        "label": "cadastrarFavorito",
-        "importPath": "src.functions.cadastrarFavorito",
-        "description": "src.functions.cadastrarFavorito",
-        "isExtraImport": true,
-        "detail": "src.functions.cadastrarFavorito",
-        "documentation": {}
-    },
-    {
-        "label": "deletarFavorito",
-        "importPath": "src.functions.deletarFavorito",
-        "description": "src.functions.deletarFavorito",
-        "isExtraImport": true,
-        "detail": "src.functions.deletarFavorito",
-        "documentation": {}
-    },
-    {
-        "label": "menuCompra",
-        "importPath": "src.layouts.menuCompra",
-        "description": "src.layouts.menuCompra",
-        "isExtraImport": true,
-        "detail": "src.layouts.menuCompra",
-        "documentation": {}
-    },
-    {
-        "label": "menuProduto",
-        "importPath": "src.layouts.menuProduto",
-        "description": "src.layouts.menuProduto",
-        "isExtraImport": true,
-        "detail": "src.layouts.menuProduto",
-        "documentation": {}
-    },
-    {
-        "label": "menuUsuario",
-        "importPath": "src.layouts.menuUsuario",
-        "description": "src.layouts.menuUsuario",
-        "isExtraImport": true,
-        "detail": "src.layouts.menuUsuario",
-        "documentation": {}
-    },
-    {
-        "label": "menuVendedor",
-        "importPath": "src.layouts.menuVendedor",
-        "description": "src.layouts.menuVendedor",
-        "isExtraImport": true,
-        "detail": "src.layouts.menuVendedor",
-        "documentation": {}
-    },
-    {
-        "label": "cadastrarProduto",
-        "importPath": "src.functions.cadastrarProduto",
-        "description": "src.functions.cadastrarProduto",
-        "isExtraImport": true,
-        "detail": "src.functions.cadastrarProduto",
-        "documentation": {}
-    },
-    {
-        "label": "atualizarProduto",
-        "importPath": "src.functions.atualizarProduto",
-        "description": "src.functions.atualizarProduto",
-        "isExtraImport": true,
-        "detail": "src.functions.atualizarProduto",
-        "documentation": {}
-    },
-    {
-        "label": "deletarProduto",
-        "importPath": "src.functions.deletarProduto",
-        "description": "src.functions.deletarProduto",
-        "isExtraImport": true,
-        "detail": "src.functions.deletarProduto",
-        "documentation": {}
-    },
-    {
-        "label": "cadastrarUsuario",
-        "importPath": "src.functions.cadastrarUsuario",
-        "description": "src.functions.cadastrarUsuario",
-        "isExtraImport": true,
-        "detail": "src.functions.cadastrarUsuario",
-        "documentation": {}
-    },
-    {
-        "label": "atualizarUsuario",
-        "importPath": "src.functions.atualizarUsuario",
-        "description": "src.functions.atualizarUsuario",
-        "isExtraImport": true,
-        "detail": "src.functions.atualizarUsuario",
-        "documentation": {}
-    },
-    {
-        "label": "deletarUsuario",
-        "importPath": "src.functions.deletarUsuario",
-        "description": "src.functions.deletarUsuario",
-        "isExtraImport": true,
-        "detail": "src.functions.deletarUsuario",
-        "documentation": {}
-    },
-    {
-        "label": "menuFavorito",
-        "importPath": "src.layouts.menuFavorito",
-        "description": "src.layouts.menuFavorito",
-        "isExtraImport": true,
-        "detail": "src.layouts.menuFavorito",
-        "documentation": {}
-    },
-    {
-        "label": "cadastrarVendedor",
-        "importPath": "src.functions.cadastrarVendedor",
-        "description": "src.functions.cadastrarVendedor",
-        "isExtraImport": true,
-        "detail": "src.functions.cadastrarVendedor",
-        "documentation": {}
-    },
-    {
-        "label": "listarVendedor",
-        "importPath": "src.functions.listarVendedor",
-        "description": "src.functions.listarVendedor",
-        "isExtraImport": true,
-        "detail": "src.functions.listarVendedor",
-        "documentation": {}
-    },
-    {
-        "label": "atualizarVendedor",
-        "importPath": "src.functions.atualizarVendedor",
-        "description": "src.functions.atualizarVendedor",
-        "isExtraImport": true,
-        "detail": "src.functions.atualizarVendedor",
-        "documentation": {}
-    },
-    {
-        "label": "deletarVendedor",
-        "importPath": "src.functions.deletarVendedor",
-        "description": "src.functions.deletarVendedor",
-        "isExtraImport": true,
-        "detail": "src.functions.deletarVendedor",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "solicitarInput",
-        "importPath": "src.utils.solicitarInput",
-        "description": "src.utils.solicitarInput",
-        "isExtraImport": true,
-        "detail": "src.utils.solicitarInput",
-        "documentation": {}
-    },
-    {
-        "label": "solicitarInput",
-        "importPath": "src.utils.solicitarInput",
-        "description": "src.utils.solicitarInput",
-        "isExtraImport": true,
-        "detail": "src.utils.solicitarInput",
-        "documentation": {}
-    },
-    {
-        "label": "solicitarInput",
-        "importPath": "src.utils.solicitarInput",
-        "description": "src.utils.solicitarInput",
-        "isExtraImport": true,
-        "detail": "src.utils.solicitarInput",
-        "documentation": {}
-    },
-    {
-        "label": "solicitarInput",
-        "importPath": "src.utils.solicitarInput",
-        "description": "src.utils.solicitarInput",
-        "isExtraImport": true,
-        "detail": "src.utils.solicitarInput",
         "documentation": {}
     },
     {
@@ -785,6 +441,22 @@
         "documentation": {}
     },
     {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "criarUsuario",
+        "importPath": "src.utils.criarUsuario",
+        "description": "src.utils.criarUsuario",
+        "isExtraImport": true,
+        "detail": "src.utils.criarUsuario",
+        "documentation": {}
+    },
+    {
         "label": "create_usuario",
         "importPath": "src.database.create_usuario",
         "description": "src.database.create_usuario",
@@ -793,11 +465,11 @@
         "documentation": {}
     },
     {
-        "label": "search",
-        "importPath": "src.database.search",
-        "description": "src.database.search",
+        "label": "search_nodes",
+        "importPath": "src.database.search_nodes",
+        "description": "src.database.search_nodes",
         "isExtraImport": true,
-        "detail": "src.database.search",
+        "detail": "src.database.search_nodes",
         "documentation": {}
     },
     {
@@ -864,12 +536,12 @@
         "documentation": {}
     },
     {
-        "label": "count",
+        "label": "count_nodes",
         "kind": 2,
-        "importPath": "src.database.count",
-        "description": "src.database.count",
-        "peekOfCode": "def count(colecao: str):\n    try:\n        # Função para contar os nós de uma coleção\n        def count_querry(tx):\n            querry = \"MATCH (u:\" + colecao + \") RETURN count(u) AS total\"\n            result = tx.run(querry)\n            record = result.single()\n            return record[\"total\"] if record else 0\n        # Usar uma sessão para executar a transação\n        with driver.session() as session:",
-        "detail": "src.database.count",
+        "importPath": "src.database.count_nodes",
+        "description": "src.database.count_nodes",
+        "peekOfCode": "def count_nodes(collection: str) -> int:\n    try:\n        def count_query(tx):\n            query = f\"MATCH (u:{collection}) RETURN count(u) AS total\"\n            result = tx.run(query)\n            record = result.single()\n            return record[\"total\"] if record else 0\n        with driver.session() as session:\n            total = session.read_transaction(count_query)\n            return total",
+        "detail": "src.database.count_nodes",
         "documentation": {}
     },
     {
@@ -877,89 +549,17 @@
         "kind": 2,
         "importPath": "src.database.create_usuario",
         "description": "src.database.create_usuario",
-        "peekOfCode": "def create_usuario(dados):\n    try:\n        total = count(\"Usuario\")\n        id, nome, endereco, rg = count+1, dados[\"nome\"], dados[\"endereco\"], dados[\"rg\"]\n        # Função para criar um usuário no banco de dados\n        def create(tx, id, nome, endereco, rg):\n            query = \"\"\"\n            CREATE (:Usuario {id: $id, nome: $nome, endereco: $endereco, rg: $rg})\n            \"\"\"\n            tx.run(query, id=id, nome=nome, endereco=endereco, rg=rg)",
+        "peekOfCode": "def create_usuario(usuario: Usuario) -> str:\n    try:\n        total = count_nodes(\"Usuario\")\n        user_id = total + 1\n        nome = usuario.nome\n        endereco = usuario.endereco\n        rg = usuario.rg\n        def create_user(tx, user_id, nome, endereco, rg):\n            query = \"\"\"\n            CREATE (:Usuario {id: $user_id, nome: $nome, endereco: $endereco, rg: $rg})",
         "detail": "src.database.create_usuario",
         "documentation": {}
     },
     {
-        "label": "search",
+        "label": "search_nodes",
         "kind": 2,
-        "importPath": "src.database.search",
-        "description": "src.database.search",
-        "peekOfCode": "def search(colecao, filter = None):\n    try:\n        querry = \"MATCH (u:\" + colecao + \") RETURN u\"\n        if filter:\n            querry = \"MATCH (u:\" + colecao + \") WHERE u.\" + filter + \" RETURN u\"\n        with driver.session() as session:\n            result = session.run(querry)\n            dados = []\n            for dado in result.data():\n                dados.append(dado[\"u\"])",
-        "detail": "src.database.search",
-        "documentation": {}
-    },
-    {
-        "label": "menuCampoProdutos",
-        "kind": 2,
-        "importPath": "src.layouts.menuCampoProdutos",
-        "description": "src.layouts.menuCampoProdutos",
-        "peekOfCode": "def menuCampoProdutos(colecao: Compra | Vendedor) -> Compra | Vendedor:\n    while True:\n        limparTerminal()\n        print(\"--\" * 21)\n        print(formatarTexto_negrito(\"Menu Campo Produtos\"))\n        print(\"1 - Adicionar Produto\")\n        print(\"2 - Listar Produtos Atuais\")\n        print(\"3 - Listar Produtos Totais\")\n        print(\"4 - Remover Produto\")\n        print(\"0 - Concluir\")",
-        "detail": "src.layouts.menuCampoProdutos",
-        "documentation": {}
-    },
-    {
-        "label": "menuCampoUsuario",
-        "kind": 2,
-        "importPath": "src.layouts.menuCampoUsuario",
-        "description": "src.layouts.menuCampoUsuario",
-        "peekOfCode": "def menuCampoUsuario(colecao: Compra) -> Compra:\n    while True:\n        limparTerminal()\n        print(\"--\" * 21)\n        print(formatarTexto_negrito(\"Menu Campo Usuário\"))\n        print(\"1 - Setar Usuário\")\n        print(\"2 - Listar Usuários\")\n        print(\"--\" * 21)\n        opcao = input(\"\\nDigite a opção desejada: \")\n        match opcao:",
-        "detail": "src.layouts.menuCampoUsuario",
-        "documentation": {}
-    },
-    {
-        "label": "menuCompra",
-        "kind": 2,
-        "importPath": "src.layouts.menuCompra",
-        "description": "src.layouts.menuCompra",
-        "peekOfCode": "def menuCompra():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Compra\"))\n        print(\"1 - Cadastrar Compra\")\n        print(\"2 - Listar Compras\")\n        print(\"3 - Atualizar Compra\")\n        print(\"4 - Deletar Compra\")\n        print(\"0 - Voltar\")",
-        "detail": "src.layouts.menuCompra",
-        "documentation": {}
-    },
-    {
-        "label": "menuFavorito",
-        "kind": 2,
-        "importPath": "src.layouts.menuFavorito",
-        "description": "src.layouts.menuFavorito",
-        "peekOfCode": "def menuFavorito():\n    while True:\n        limparTerminal()\n        print(\"--\" * 21)\n        print(formatarTexto_negrito(\"Menu Adicionar Produto\"))\n        print(\"1 - Adicionar Favorito\")\n        print(\"2 - Listar Usuários\")\n        print(\"3 - Listar Produtos\")\n        print(\"4 - Remover Favorito\")\n        print(\"0 - Concluir\")",
-        "detail": "src.layouts.menuFavorito",
-        "documentation": {}
-    },
-    {
-        "label": "menuPrincipal",
-        "kind": 2,
-        "importPath": "src.layouts.menuPrincipal",
-        "description": "src.layouts.menuPrincipal",
-        "peekOfCode": "def menuPrincipal():\n    while True:\n        limparTerminal()\n        print(\"==\" * 21)\n        print(formatarTexto_negrito(\"Menu Principal\"))\n        print(\"1 - CRUD de Compras\")\n        print(\"2 - CRUD de Produtos\")\n        print(\"3 - CRUD de Usuários\")\n        print(\"4 - CRUD de Vendedores\")\n        print(\"0 - Sair\")",
-        "detail": "src.layouts.menuPrincipal",
-        "documentation": {}
-    },
-    {
-        "label": "menuProduto",
-        "kind": 2,
-        "importPath": "src.layouts.menuProduto",
-        "description": "src.layouts.menuProduto",
-        "peekOfCode": "def menuProduto():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Produto\"))\n        print(\"1 - Cadastrar Produto\")\n        print(\"2 - Listar Produtos\")\n        print(\"3 - Atualizar Produto\")\n        print(\"4 - Deletar Produto\")\n        print(\"0 - Voltar\")",
-        "detail": "src.layouts.menuProduto",
-        "documentation": {}
-    },
-    {
-        "label": "menuUsuario",
-        "kind": 2,
-        "importPath": "src.layouts.menuUsuario",
-        "description": "src.layouts.menuUsuario",
-        "peekOfCode": "def menuUsuario():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Usuário\"))\n        print(\"1 - Cadastrar Usuário\")\n        print(\"2 - Listar Usuários\")\n        print(\"3 - Atualizar Usuário\")\n        print(\"4 - Deletar Usuário\")\n        print(\"5 - Adicionar Favoritos\")",
-        "detail": "src.layouts.menuUsuario",
-        "documentation": {}
-    },
-    {
-        "label": "menuVendedor",
-        "kind": 2,
-        "importPath": "src.layouts.menuVendedor",
-        "description": "src.layouts.menuVendedor",
-        "peekOfCode": "def menuVendedor():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Vendedor\"))\n        print(\"1 - Cadastrar Vendedor\")\n        print(\"2 - Listar Vendedores\")\n        print(\"3 - Atualizar Vendedor\")\n        print(\"4 - Deletar Vendedor\")\n        print(\"0 - Voltar\")",
-        "detail": "src.layouts.menuVendedor",
+        "importPath": "src.database.search_nodes",
+        "description": "src.database.search_nodes",
+        "peekOfCode": "def search_nodes(collection: str, filter: Optional[str] = None) -> Optional[List[Dict[str, Any]]]:\n    try:\n        query = f\"MATCH (u:{collection})\"\n        if filter:\n            query += f\" WHERE u.{filter}\"\n        query += \" RETURN u\"\n        with driver.session() as session:\n            result = session.run(query)\n            nodes = [record[\"u\"] for record in result]\n        return nodes",
+        "detail": "src.database.search_nodes",
         "documentation": {}
     },
     {
@@ -1773,11 +1373,11 @@
         "documentation": {}
     },
     {
-        "label": "result",
-        "kind": 5,
+        "label": "main",
+        "kind": 2,
         "importPath": "index",
         "description": "index",
-        "peekOfCode": "result = count(\"Usuario\")\nprint(result)\ndriver.close()",
+        "peekOfCode": "def main():\n    while True:\n        limparTerminal()\n        print(\"--- Menu ---\")\n        print(\"1 - Cadastrar usuário\")\n        print(\"2 - Listar usuários\")\n        print(\"3 - Contar usuários\")\n        print(\"0 - Sair\")\n        print(\"------------\")\n        opcao = input(\"Digite a opção desejada: \")",
         "detail": "index",
         "documentation": {}
     }
