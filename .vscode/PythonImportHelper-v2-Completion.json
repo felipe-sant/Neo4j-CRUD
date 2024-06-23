@@ -1,0 +1,137 @@
+[
+    {
+        "label": "GraphDatabase",
+        "importPath": "neo4j",
+        "description": "neo4j",
+        "isExtraImport": true,
+        "detail": "neo4j",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "importPath": "src.database.connection",
+        "description": "src.database.connection",
+        "isExtraImport": true,
+        "detail": "src.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "importPath": "src.database.connection",
+        "description": "src.database.connection",
+        "isExtraImport": true,
+        "detail": "src.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "importPath": "src.database.connection",
+        "description": "src.database.connection",
+        "isExtraImport": true,
+        "detail": "src.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "importPath": "src.database.connection",
+        "description": "src.database.connection",
+        "isExtraImport": true,
+        "detail": "src.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "importPath": "src.database.count",
+        "description": "src.database.count",
+        "isExtraImport": true,
+        "detail": "src.database.count",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "importPath": "src.database.count",
+        "description": "src.database.count",
+        "isExtraImport": true,
+        "detail": "src.database.count",
+        "documentation": {}
+    },
+    {
+        "label": "create_usuario",
+        "importPath": "src.database.create_usuario",
+        "description": "src.database.create_usuario",
+        "isExtraImport": true,
+        "detail": "src.database.create_usuario",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "importPath": "src.database.search",
+        "description": "src.database.search",
+        "isExtraImport": true,
+        "detail": "src.database.search",
+        "documentation": {}
+    },
+    {
+        "label": "uri",
+        "kind": 5,
+        "importPath": "src.database.connection",
+        "description": "src.database.connection",
+        "peekOfCode": "uri = \"neo4j+s://dd585e27.databases.neo4j.io:7687\"\nauth = (\"neo4j\", \"jbq7Gbx0HaVqZQAWZJ5mktc5T9WftmGdMFnDkhFcWz0\")\ndriver = GraphDatabase.driver(\n    uri=uri, \n    auth=auth,\n    max_connection_lifetime=30,  # Tempo máximo de vida da conexão (em segundos)\n    max_connection_pool_size=50,  # Tamanho máximo do pool de conexões\n    connection_timeout=15  # Tempo limite de conexão (em segundos)\n)\n# Path: src/database/connection.py",
+        "detail": "src.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 5,
+        "importPath": "src.database.connection",
+        "description": "src.database.connection",
+        "peekOfCode": "auth = (\"neo4j\", \"jbq7Gbx0HaVqZQAWZJ5mktc5T9WftmGdMFnDkhFcWz0\")\ndriver = GraphDatabase.driver(\n    uri=uri, \n    auth=auth,\n    max_connection_lifetime=30,  # Tempo máximo de vida da conexão (em segundos)\n    max_connection_pool_size=50,  # Tamanho máximo do pool de conexões\n    connection_timeout=15  # Tempo limite de conexão (em segundos)\n)\n# Path: src/database/connection.py",
+        "detail": "src.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "driver",
+        "kind": 5,
+        "importPath": "src.database.connection",
+        "description": "src.database.connection",
+        "peekOfCode": "driver = GraphDatabase.driver(\n    uri=uri, \n    auth=auth,\n    max_connection_lifetime=30,  # Tempo máximo de vida da conexão (em segundos)\n    max_connection_pool_size=50,  # Tamanho máximo do pool de conexões\n    connection_timeout=15  # Tempo limite de conexão (em segundos)\n)\n# Path: src/database/connection.py",
+        "detail": "src.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "kind": 2,
+        "importPath": "src.database.count",
+        "description": "src.database.count",
+        "peekOfCode": "def count(colecao: str):\n    try:\n        # Função para contar os nós de uma coleção\n        def count_querry(tx):\n            querry = \"MATCH (u:\" + colecao + \") RETURN count(u) AS total\"\n            result = tx.run(querry)\n            record = result.single()\n            return record[\"total\"] if record else 0\n        # Usar uma sessão para executar a transação\n        with driver.session() as session:",
+        "detail": "src.database.count",
+        "documentation": {}
+    },
+    {
+        "label": "create_usuario",
+        "kind": 2,
+        "importPath": "src.database.create_usuario",
+        "description": "src.database.create_usuario",
+        "peekOfCode": "def create_usuario(dados):\n    try:\n        total = count(\"Usuario\")\n        id, nome, endereco, rg = count+1, dados[\"nome\"], dados[\"endereco\"], dados[\"rg\"]\n        # Função para criar um usuário no banco de dados\n        def create(tx, id, nome, endereco, rg):\n            query = \"\"\"\n            CREATE (:Usuario {id: $id, nome: $nome, endereco: $endereco, rg: $rg})\n            \"\"\"\n            tx.run(query, id=id, nome=nome, endereco=endereco, rg=rg)",
+        "detail": "src.database.create_usuario",
+        "documentation": {}
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "src.database.search",
+        "description": "src.database.search",
+        "peekOfCode": "def search(colecao, filter = None):\n    try:\n        querry = \"MATCH (u:\" + colecao + \") RETURN u\"\n        if filter:\n            querry = \"MATCH (u:\" + colecao + \") WHERE u.\" + filter + \" RETURN u\"\n        with driver.session() as session:\n            result = session.run(querry)\n            dados = []\n            for dado in result.data():\n                dados.append(dado[\"u\"])",
+        "detail": "src.database.search",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "index",
+        "description": "index",
+        "peekOfCode": "result = count(\"Usuario\")\nprint(result)\ndriver.close()",
+        "detail": "index",
+        "documentation": {}
+    }
+]
