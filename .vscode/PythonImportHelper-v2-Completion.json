@@ -232,75 +232,27 @@
         "documentation": {}
     },
     {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
+        "label": "formatarTexto_azul",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
         "isExtraImport": true,
-        "detail": "typing",
+        "detail": "src.utils.formatarTexto",
         "documentation": {}
     },
     {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
         "isExtraImport": true,
-        "detail": "typing",
+        "detail": "src.utils.formatarTexto",
         "documentation": {}
     },
     {
-        "label": "Any",
-        "importPath": "typing",
-        "description": "typing",
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
         "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
+        "detail": "src.utils.formatarTexto",
         "documentation": {}
     },
     {
@@ -512,6 +464,94 @@
         "documentation": {}
     },
     {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "criarUsuario",
+        "importPath": "src.utils.criarUsuario",
+        "description": "src.utils.criarUsuario",
+        "isExtraImport": true,
+        "detail": "src.utils.criarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "create_usuario",
+        "importPath": "src.database.create_usuario",
+        "description": "src.database.create_usuario",
+        "isExtraImport": true,
+        "detail": "src.database.create_usuario",
+        "documentation": {}
+    },
+    {
         "label": "pegarTodos",
         "importPath": "src.functions.pegarTodos",
         "description": "src.functions.pegarTodos",
@@ -720,6 +760,14 @@
         "documentation": {}
     },
     {
+        "label": "cadastrarUsuario",
+        "importPath": "src.functions.cadastrarUsuario",
+        "description": "src.functions.cadastrarUsuario",
+        "isExtraImport": true,
+        "detail": "src.functions.cadastrarUsuario",
+        "documentation": {}
+    },
+    {
         "label": "solicitarInput",
         "importPath": "src.utils.solicitarInput",
         "description": "src.utils.solicitarInput",
@@ -856,6 +904,15 @@
         "description": "src.database.search_nodes",
         "peekOfCode": "def search_nodes(collection: str, filter: Optional[str] = None) -> Optional[List[Dict[str, Any]]]:\n    try:\n        query = f\"MATCH (u:{collection})\"\n        if filter:\n            query += f\" WHERE u.{filter}\"\n        query += \" RETURN u\"\n        with driver.session() as session:\n            result = session.run(query)\n            nodes = [record[\"u\"] for record in result]\n        return nodes",
         "detail": "src.database.search_nodes",
+        "documentation": {}
+    },
+    {
+        "label": "cadastrarUsuario",
+        "kind": 2,
+        "importPath": "src.functions.cadastrarUsuario",
+        "description": "src.functions.cadastrarUsuario",
+        "peekOfCode": "def cadastrarUsuario():\n    try:\n        usuario = criarUsuario(isRequired=True)\n        result = create_usuario(usuario)\n        print()\n        print(result)\n        input()\n    except Exception as e:\n        print(f\"\\nFalha ao cadastrar usuário: {formatarTexto_vermelho(str(e))}\")\n        input()",
+        "detail": "src.functions.cadastrarUsuario",
         "documentation": {}
     },
     {

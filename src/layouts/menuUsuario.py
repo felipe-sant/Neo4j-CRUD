@@ -1,6 +1,7 @@
 from src.utils.limparTerminal import limparTerminal
 from src.utils.formatarTexto import formatarTexto_negrito
 from src.functions.listarUsuario import listarUsuario
+from src.functions.cadastrarUsuario import cadastrarUsuario
 
 def menuUsuario():
     while True:
@@ -17,11 +18,9 @@ def menuUsuario():
         
         match opcao:
             case "1":
-                pass
+                cadastrarUsuario()
             case "2":
                 listarUsuario()
-            case "3":
-                pass
             case "0":
                 return
             case _:

@@ -1,6 +1,7 @@
 from src.classes.usuario import Usuario
 from src.database.connection import driver
 from src.database.count_nodes import count_nodes
+from src.utils.formatarTexto import formatarTexto_azul, formatarTexto_vermelho
 
 def create_usuario(usuario: Usuario) -> str:
     try:
@@ -19,10 +20,10 @@ def create_usuario(usuario: Usuario) -> str:
         with driver.session() as session:
             session.write_transaction(create_user, userid, nome, endereco, rg)
         
-        return "Node created successfully!"
+        return f"{formatarTexto_azul("Nó criado com sucesso!")}"
     except Exception as e:
-        return f"Failed to create node: {e}"
+        return f"Falha ao criar nó: {formatarTexto_vermelho(str(e))}"
     except KeyboardInterrupt:
-        return "Operation canceled by the user."
+        return "Operação cancelada."
 
 # Path: src/database/create.py
