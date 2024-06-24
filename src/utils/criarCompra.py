@@ -1,8 +1,8 @@
 from typing import Optional
 from src.classes.compra import Compra
 from src.utils.solicitarInput import solicitarInput
-from src.utils.formatarTexto import (formatarTexto_italico, formatarTexto_negrito,
-    formatarTexto_vermelho)
+from src.utils.formatarTexto import (formatarTexto_azul, formatarTexto_italico,
+    formatarTexto_negrito, formatarTexto_vermelho)
 
 def criarCompra(isRequired: bool, compra: Compra = None) -> Optional[Compra]:
     try:
@@ -27,7 +27,7 @@ def criarCompra(isRequired: bool, compra: Compra = None) -> Optional[Compra]:
         compra.validate()
         return compra
     except Exception as e:
-        print(f"\nErro ao criar compra: {formatarTexto_vermelho(str(e))}")
+        print(f"\nError in criarCompra: {formatarTexto_vermelho(str(e))}\n")
         input()
         return None
     except KeyboardInterrupt:

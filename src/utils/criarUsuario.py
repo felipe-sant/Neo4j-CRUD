@@ -20,7 +20,7 @@ def criarUsuario(isRequired: bool, usuario: Usuario = None) -> Optional[Usuario]
         usuario.validate()
         return usuario
     except Exception as e:
-        print(f"\nErro ao criar usuário: {formatarTexto_vermelho(str(e))}")
+        print(f"\nError in criarUsuario: {formatarTexto_vermelho(str(e))}")
         input()
         return None
     except KeyboardInterrupt:

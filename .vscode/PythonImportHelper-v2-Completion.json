@@ -200,14 +200,6 @@
         "documentation": {}
     },
     {
-        "label": "count_nodes",
-        "importPath": "src.database.count_nodes",
-        "description": "src.database.count_nodes",
-        "isExtraImport": true,
-        "detail": "src.database.count_nodes",
-        "documentation": {}
-    },
-    {
         "label": "List",
         "importPath": "typing",
         "description": "typing",
@@ -272,43 +264,131 @@
         "documentation": {}
     },
     {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
         "isExtraImport": true,
-        "detail": "src.classes.compra",
+        "detail": "src.utils.limparTerminal",
         "documentation": {}
     },
     {
-        "label": "solicitarInput",
-        "importPath": "src.utils.solicitarInput",
-        "description": "src.utils.solicitarInput",
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
         "isExtraImport": true,
-        "detail": "src.utils.solicitarInput",
+        "detail": "src.utils.limparTerminal",
         "documentation": {}
     },
     {
-        "label": "solicitarInput",
-        "importPath": "src.utils.solicitarInput",
-        "description": "src.utils.solicitarInput",
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
         "isExtraImport": true,
-        "detail": "src.utils.solicitarInput",
+        "detail": "src.utils.limparTerminal",
         "documentation": {}
     },
     {
-        "label": "solicitarInput",
-        "importPath": "src.utils.solicitarInput",
-        "description": "src.utils.solicitarInput",
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
         "isExtraImport": true,
-        "detail": "src.utils.solicitarInput",
+        "detail": "src.utils.limparTerminal",
         "documentation": {}
     },
     {
-        "label": "solicitarInput",
-        "importPath": "src.utils.solicitarInput",
-        "description": "src.utils.solicitarInput",
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
         "isExtraImport": true,
-        "detail": "src.utils.solicitarInput",
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_azul",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
         "documentation": {}
     },
     {
@@ -416,11 +496,11 @@
         "documentation": {}
     },
     {
-        "label": "formatarTexto_azul",
-        "importPath": "src.utils.formatarTexto",
-        "description": "src.utils.formatarTexto",
+        "label": "Vendedor",
+        "importPath": "src.classes.vendedor",
+        "description": "src.classes.vendedor",
         "isExtraImport": true,
-        "detail": "src.utils.formatarTexto",
+        "detail": "src.classes.vendedor",
         "documentation": {}
     },
     {
@@ -429,6 +509,94 @@
         "description": "src.classes.vendedor",
         "isExtraImport": true,
         "detail": "src.classes.vendedor",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "menuCompra",
+        "importPath": "src.layouts.menuCompra",
+        "description": "src.layouts.menuCompra",
+        "isExtraImport": true,
+        "detail": "src.layouts.menuCompra",
+        "documentation": {}
+    },
+    {
+        "label": "menuProduto",
+        "importPath": "src.layouts.menuProduto",
+        "description": "src.layouts.menuProduto",
+        "isExtraImport": true,
+        "detail": "src.layouts.menuProduto",
+        "documentation": {}
+    },
+    {
+        "label": "menuUsuario",
+        "importPath": "src.layouts.menuUsuario",
+        "description": "src.layouts.menuUsuario",
+        "isExtraImport": true,
+        "detail": "src.layouts.menuUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "menuVendedor",
+        "importPath": "src.layouts.menuVendedor",
+        "description": "src.layouts.menuVendedor",
+        "isExtraImport": true,
+        "detail": "src.layouts.menuVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "solicitarInput",
+        "importPath": "src.utils.solicitarInput",
+        "description": "src.utils.solicitarInput",
+        "isExtraImport": true,
+        "detail": "src.utils.solicitarInput",
+        "documentation": {}
+    },
+    {
+        "label": "solicitarInput",
+        "importPath": "src.utils.solicitarInput",
+        "description": "src.utils.solicitarInput",
+        "isExtraImport": true,
+        "detail": "src.utils.solicitarInput",
+        "documentation": {}
+    },
+    {
+        "label": "solicitarInput",
+        "importPath": "src.utils.solicitarInput",
+        "description": "src.utils.solicitarInput",
+        "isExtraImport": true,
+        "detail": "src.utils.solicitarInput",
+        "documentation": {}
+    },
+    {
+        "label": "solicitarInput",
+        "importPath": "src.utils.solicitarInput",
+        "description": "src.utils.solicitarInput",
+        "isExtraImport": true,
+        "detail": "src.utils.solicitarInput",
         "documentation": {}
     },
     {
@@ -441,35 +609,11 @@
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "menuPrincipal",
+        "importPath": "src.layouts.menuPrincipal",
+        "description": "src.layouts.menuPrincipal",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
-        "documentation": {}
-    },
-    {
-        "label": "criarUsuario",
-        "importPath": "src.utils.criarUsuario",
-        "description": "src.utils.criarUsuario",
-        "isExtraImport": true,
-        "detail": "src.utils.criarUsuario",
-        "documentation": {}
-    },
-    {
-        "label": "create_usuario",
-        "importPath": "src.database.create_usuario",
-        "description": "src.database.create_usuario",
-        "isExtraImport": true,
-        "detail": "src.database.create_usuario",
-        "documentation": {}
-    },
-    {
-        "label": "search_nodes",
-        "importPath": "src.database.search_nodes",
-        "description": "src.database.search_nodes",
-        "isExtraImport": true,
-        "detail": "src.database.search_nodes",
+        "detail": "src.layouts.menuPrincipal",
         "documentation": {}
     },
     {
@@ -560,6 +704,69 @@
         "description": "src.database.search_nodes",
         "peekOfCode": "def search_nodes(collection: str, filter: Optional[str] = None) -> Optional[List[Dict[str, Any]]]:\n    try:\n        query = f\"MATCH (u:{collection})\"\n        if filter:\n            query += f\" WHERE u.{filter}\"\n        query += \" RETURN u\"\n        with driver.session() as session:\n            result = session.run(query)\n            nodes = [record[\"u\"] for record in result]\n        return nodes",
         "detail": "src.database.search_nodes",
+        "documentation": {}
+    },
+    {
+        "label": "menuCampoProdutos",
+        "kind": 2,
+        "importPath": "src.layouts.menuCampoProdutos",
+        "description": "src.layouts.menuCampoProdutos",
+        "peekOfCode": "def menuCampoProdutos(colecao: Compra | Vendedor) -> Compra | Vendedor:\n    while True:\n        limparTerminal()\n        print(\"--\" * 21)\n        print(formatarTexto_negrito(\"Menu Campo Produtos\"))\n        print(\"1 - Adicionar Produto\")\n        print(\"2 - Listar Produtos Atuais\")\n        print(\"3 - Listar Produtos Totais\")\n        print(\"4 - Remover Produto\")\n        print(\"0 - Concluir\")",
+        "detail": "src.layouts.menuCampoProdutos",
+        "documentation": {}
+    },
+    {
+        "label": "menuCampoUsuario",
+        "kind": 2,
+        "importPath": "src.layouts.menuCampoUsuario",
+        "description": "src.layouts.menuCampoUsuario",
+        "peekOfCode": "def menuCampoUsuario(colecao: Compra) -> Compra:\n    while True:\n        limparTerminal()\n        print(\"--\" * 21)\n        print(formatarTexto_negrito(\"Menu Campo Usuário\"))\n        print(\"1 - Setar Usuário\")\n        print(\"2 - Listar Usuários\")\n        print(\"--\" * 21)\n        opcao = input(\"\\nDigite a opção desejada: \")\n        match opcao:",
+        "detail": "src.layouts.menuCampoUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "menuCompra",
+        "kind": 2,
+        "importPath": "src.layouts.menuCompra",
+        "description": "src.layouts.menuCompra",
+        "peekOfCode": "def menuCompra():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Compra\"))\n        print(\"1 - Cadastrar Compra\")\n        print(\"2 - Listar Compras\")\n        print(\"3 - Deletar Compra\")\n        print(\"0 - Voltar\")\n        print(\"-=\" * 20 + \"-\")",
+        "detail": "src.layouts.menuCompra",
+        "documentation": {}
+    },
+    {
+        "label": "menuPrincipal",
+        "kind": 2,
+        "importPath": "src.layouts.menuPrincipal",
+        "description": "src.layouts.menuPrincipal",
+        "peekOfCode": "def menuPrincipal():\n    while True:\n        limparTerminal()\n        print(\"==\" * 21)\n        print(formatarTexto_negrito(\"Menu Principal\"))\n        print(\"1 - CRUD de Compras\")\n        print(\"2 - CRUD de Produtos\")\n        print(\"3 - CRUD de Usuários\")\n        print(\"4 - CRUD de Vendedores\")\n        print(\"0 - Sair\")",
+        "detail": "src.layouts.menuPrincipal",
+        "documentation": {}
+    },
+    {
+        "label": "menuProduto",
+        "kind": 2,
+        "importPath": "src.layouts.menuProduto",
+        "description": "src.layouts.menuProduto",
+        "peekOfCode": "def menuProduto():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Produto\"))\n        print(\"1 - Cadastrar Produto\")\n        print(\"2 - Listar Produtos\")\n        print(\"3 - Deletar Produto\")\n        print(\"0 - Voltar\")\n        print(\"-=\" * 20 + \"-\")",
+        "detail": "src.layouts.menuProduto",
+        "documentation": {}
+    },
+    {
+        "label": "menuUsuario",
+        "kind": 2,
+        "importPath": "src.layouts.menuUsuario",
+        "description": "src.layouts.menuUsuario",
+        "peekOfCode": "def menuUsuario():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Usuário\"))\n        print(\"1 - Cadastrar Usuário\")\n        print(\"2 - Listar Usuários\")\n        print(\"4 - Deletar Usuário\")\n        print(\"0 - Voltar\")\n        print(\"-=\" * 20 + \"-\")",
+        "detail": "src.layouts.menuUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "menuVendedor",
+        "kind": 2,
+        "importPath": "src.layouts.menuVendedor",
+        "description": "src.layouts.menuVendedor",
+        "peekOfCode": "def menuVendedor():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Vendedor\"))\n        print(\"1 - Cadastrar Vendedor\")\n        print(\"2 - Listar Vendedores\")\n        print(\"4 - Deletar Vendedor\")\n        print(\"0 - Voltar\")\n        print(\"-=\" * 20 + \"-\")",
+        "detail": "src.layouts.menuVendedor",
         "documentation": {}
     },
     {
@@ -1377,7 +1584,7 @@
         "kind": 2,
         "importPath": "index",
         "description": "index",
-        "peekOfCode": "def main():\n    while True:\n        limparTerminal()\n        print(\"--- Menu ---\")\n        print(\"1 - Cadastrar usuário\")\n        print(\"2 - Listar usuários\")\n        print(\"3 - Contar usuários\")\n        print(\"0 - Sair\")\n        print(\"------------\")\n        opcao = input(\"Digite a opção desejada: \")",
+        "peekOfCode": "def main():\n    menuPrincipal()\n    limparTerminal()\n    driver.close()\nif __name__ == \"__main__\":\n    main()\n# Path: index.py",
         "detail": "index",
         "documentation": {}
     }

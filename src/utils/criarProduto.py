@@ -25,7 +25,7 @@ def criarProduto(isRequired: bool, produto: Produto = None) -> Optional[Produto]
         produto.validate()
         return produto
     except Exception as e:
-        print(f"\nErro ao criar produto: {formatarTexto_vermelho(str(e))}")
+        print(f"\nError in criarProduto: {formatarTexto_vermelho(str(e))}")
         input()
         return None
     except KeyboardInterrupt:

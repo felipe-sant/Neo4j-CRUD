@@ -17,7 +17,7 @@ def criarVendedor(isRequired: bool, vendedor: Vendedor = None) -> Optional[Vende
         vendedor.validate()
         return vendedor
     except Exception as e:
-        print(f"\nErro ao criar vendedor: {formatarTexto_vermelho(str(e))}")
+        print(f"\nError in criarVendedor: {formatarTexto_vermelho(str(e))}")
         input()
         return None
     except KeyboardInterrupt:
