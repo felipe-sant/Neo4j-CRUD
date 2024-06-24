@@ -128,6 +128,38 @@
         "documentation": {}
     },
     {
+        "label": "Produto",
+        "importPath": "src.classes.produto",
+        "description": "src.classes.produto",
+        "isExtraImport": true,
+        "detail": "src.classes.produto",
+        "documentation": {}
+    },
+    {
+        "label": "Produto",
+        "importPath": "src.classes.produto",
+        "description": "src.classes.produto",
+        "isExtraImport": true,
+        "detail": "src.classes.produto",
+        "documentation": {}
+    },
+    {
+        "label": "Usuario",
+        "importPath": "src.classes.usuario",
+        "description": "src.classes.usuario",
+        "isExtraImport": true,
+        "detail": "src.classes.usuario",
+        "documentation": {}
+    },
+    {
+        "label": "Usuario",
+        "importPath": "src.classes.usuario",
+        "description": "src.classes.usuario",
+        "isExtraImport": true,
+        "detail": "src.classes.usuario",
+        "documentation": {}
+    },
+    {
         "label": "Usuario",
         "importPath": "src.classes.usuario",
         "description": "src.classes.usuario",
@@ -232,7 +264,7 @@
         "documentation": {}
     },
     {
-        "label": "Optional",
+        "label": "List",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -264,67 +296,51 @@
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "typing",
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "formatarTexto_italico",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "src.utils.formatarTexto",
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "src.utils.formatarTexto",
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "src.utils.formatarTexto",
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "src.utils.formatarTexto",
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
-        "documentation": {}
-    },
-    {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
-        "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
-        "documentation": {}
-    },
-    {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
-        "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "src.utils.formatarTexto",
         "documentation": {}
     },
     {
@@ -496,6 +512,30 @@
         "documentation": {}
     },
     {
+        "label": "pegarTodos",
+        "importPath": "src.functions.pegarTodos",
+        "description": "src.functions.pegarTodos",
+        "isExtraImport": true,
+        "detail": "src.functions.pegarTodos",
+        "documentation": {}
+    },
+    {
+        "label": "pegarUm",
+        "importPath": "src.functions.pegarUm",
+        "description": "src.functions.pegarUm",
+        "isExtraImport": true,
+        "detail": "src.functions.pegarUm",
+        "documentation": {}
+    },
+    {
+        "label": "Vendedor",
+        "importPath": "src.classes.vendedor",
+        "description": "src.classes.vendedor",
+        "isExtraImport": true,
+        "detail": "src.classes.vendedor",
+        "documentation": {}
+    },
+    {
         "label": "Vendedor",
         "importPath": "src.classes.vendedor",
         "description": "src.classes.vendedor",
@@ -512,6 +552,22 @@
         "documentation": {}
     },
     {
+        "label": "Vendedor",
+        "importPath": "src.classes.vendedor",
+        "description": "src.classes.vendedor",
+        "isExtraImport": true,
+        "detail": "src.classes.vendedor",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
         "label": "Compra",
         "importPath": "src.classes.compra",
         "description": "src.classes.compra",
@@ -533,6 +589,94 @@
         "description": "src.classes.compra",
         "isExtraImport": true,
         "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "search_nodes",
+        "importPath": "src.database.search_nodes",
+        "description": "src.database.search_nodes",
+        "isExtraImport": true,
+        "detail": "src.database.search_nodes",
+        "documentation": {}
+    },
+    {
+        "label": "search_nodes",
+        "importPath": "src.database.search_nodes",
+        "description": "src.database.search_nodes",
+        "isExtraImport": true,
+        "detail": "src.database.search_nodes",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
         "documentation": {}
     },
     {
@@ -565,6 +709,14 @@
         "description": "src.layouts.menuVendedor",
         "isExtraImport": true,
         "detail": "src.layouts.menuVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "listarUsuario",
+        "importPath": "src.functions.listarUsuario",
+        "description": "src.functions.listarUsuario",
+        "isExtraImport": true,
+        "detail": "src.functions.listarUsuario",
         "documentation": {}
     },
     {
@@ -621,7 +773,7 @@
         "kind": 6,
         "importPath": "src.classes.compra",
         "description": "src.classes.compra",
-        "peekOfCode": "class Compra:\n    _id: str = field(default=None, repr=False)\n    dataCompra: str = field(default=\"\")\n    valorTotal: float = field(default=0.0)\n    usuario: dict[str, any] = field(default_factory=dict)\n    produtos: list[dict[str, any]] = field(default_factory=list)\n    def __str__(self) -> str:\n        listagem = \"\"\n        listagem += f\"_id: {self._id}\\n\" if self._id is not None else \"\"\n        listagem += f\"dataCompra: {self.dataCompra}\\n\" if self.dataCompra != \"\" else \"\"",
+        "peekOfCode": "class Compra:\n    id: str = field(default=None, repr=False)\n    dataCompra: str = field(default=\"\")\n    valorTotal: float = field(default=0.0)\n    usuario: dict[str, any] = field(default_factory=dict)\n    produtos: list[dict[str, any]] = field(default_factory=list)\n    def __str__(self) -> str:\n        listagem = \"\"\n        listagem += f\"id: {self.id}\\n\" if self.id is not None else \"\"\n        listagem += f\"dataCompra: {self.dataCompra}\\n\" if self.dataCompra != \"\" else \"\"",
         "detail": "src.classes.compra",
         "documentation": {}
     },
@@ -630,7 +782,7 @@
         "kind": 6,
         "importPath": "src.classes.produto",
         "description": "src.classes.produto",
-        "peekOfCode": "class Produto:\n    _id: str = field(default=None, repr=False)\n    nome: str = field(default=\"\")\n    descricao: str = field(default=\"\")\n    preco: float = field(default=0.0)\n    estoque: int = field(default=0)\n    vendedor: dict[str, any] = field(default_factory=dict)\n    def __str__(self) -> str:\n        listagem = \"\"\n        listagem += f\"_id: {self._id}\\n\" if self._id is not None else \"\"",
+        "peekOfCode": "class Produto:\n    id: str = field(default=None, repr=False)\n    nome: str = field(default=\"\")\n    descricao: str = field(default=\"\")\n    preco: float = field(default=0.0)\n    estoque: int = field(default=0)\n    vendedor: dict[str, any] = field(default_factory=dict)\n    def __str__(self) -> str:\n        listagem = \"\"\n        listagem += f\"id: {self.id}\\n\" if self.id is not None else \"\"",
         "detail": "src.classes.produto",
         "documentation": {}
     },
@@ -639,7 +791,7 @@
         "kind": 6,
         "importPath": "src.classes.usuario",
         "description": "src.classes.usuario",
-        "peekOfCode": "class Usuario:\n    _id: str = field(default=None, repr=False)\n    nome: str = field(default=\"\")\n    endereco: str = field(default=\"\")\n    rg: str = field(default=\"\")\n    favoritos: list[dict[str, any]] = field(default_factory=list)\n    def __str__(self) -> str:\n        listagem = \"\"\n        listagem += f\"_id: {self._id}\\n\" if self._id is not None else \"\"\n        listagem += f\"nome: {self.nome}\\n\" if self.nome != \"\" else \"\"",
+        "peekOfCode": "class Usuario:\n    id: str = field(default=None, repr=False)\n    nome: str = field(default=\"\")\n    endereco: str = field(default=\"\")\n    rg: str = field(default=\"\")\n    favoritos: list[dict[str, any]] = field(default_factory=list)\n    def __str__(self) -> str:\n        listagem = \"\"\n        listagem += f\"id: {self.id}\\n\" if self.id is not None else \"\"\n        listagem += f\"nome: {self.nome}\\n\" if self.nome != \"\" else \"\"",
         "detail": "src.classes.usuario",
         "documentation": {}
     },
@@ -648,7 +800,7 @@
         "kind": 6,
         "importPath": "src.classes.vendedor",
         "description": "src.classes.vendedor",
-        "peekOfCode": "class Vendedor:\n    _id: str = field(default=None, repr=False)\n    nome: str = field(default=\"\")\n    rg: str = field(default=\"\")\n    produtos: list[dict[str, any]] = field(default_factory=list)\n    def __str__(self) -> str:\n        listagem = \"\"\n        listagem += f\"_id: {self._id}\\n\" if self._id is not None else \"\"\n        listagem += f\"nome: {self.nome}\\n\" if self.nome != \"\" else \"\"\n        listagem += f\"rg: {self.rg}\\n\" if self.rg != \"\" else \"\"",
+        "peekOfCode": "class Vendedor:\n    id: str = field(default=None, repr=False)\n    nome: str = field(default=\"\")\n    rg: str = field(default=\"\")\n    produtos: list[dict[str, any]] = field(default_factory=list)\n    def __str__(self) -> str:\n        listagem = \"\"\n        listagem += f\"id: {self.id}\\n\" if self.id is not None else \"\"\n        listagem += f\"nome: {self.nome}\\n\" if self.nome != \"\" else \"\"\n        listagem += f\"rg: {self.rg}\\n\" if self.rg != \"\" else \"\"",
         "detail": "src.classes.vendedor",
         "documentation": {}
     },
@@ -693,7 +845,7 @@
         "kind": 2,
         "importPath": "src.database.create_usuario",
         "description": "src.database.create_usuario",
-        "peekOfCode": "def create_usuario(usuario: Usuario) -> str:\n    try:\n        total = count_nodes(\"Usuario\")\n        user_id = total + 1\n        nome = usuario.nome\n        endereco = usuario.endereco\n        rg = usuario.rg\n        def create_user(tx, user_id, nome, endereco, rg):\n            query = \"\"\"\n            CREATE (:Usuario {id: $user_id, nome: $nome, endereco: $endereco, rg: $rg})",
+        "peekOfCode": "def create_usuario(usuario: Usuario) -> str:\n    try:\n        total = count_nodes(\"Usuario\")\n        userid = total + 1\n        nome = usuario.nome\n        endereco = usuario.endereco\n        rg = usuario.rg\n        def create_user(tx, userid, nome, endereco, rg):\n            query = \"\"\"\n            CREATE (:Usuario {id: $userid, nome: $nome, endereco: $endereco, rg: $rg})",
         "detail": "src.database.create_usuario",
         "documentation": {}
     },
@@ -704,6 +856,33 @@
         "description": "src.database.search_nodes",
         "peekOfCode": "def search_nodes(collection: str, filter: Optional[str] = None) -> Optional[List[Dict[str, Any]]]:\n    try:\n        query = f\"MATCH (u:{collection})\"\n        if filter:\n            query += f\" WHERE u.{filter}\"\n        query += \" RETURN u\"\n        with driver.session() as session:\n            result = session.run(query)\n            nodes = [record[\"u\"] for record in result]\n        return nodes",
         "detail": "src.database.search_nodes",
+        "documentation": {}
+    },
+    {
+        "label": "listarUsuario",
+        "kind": 2,
+        "importPath": "src.functions.listarUsuario",
+        "description": "src.functions.listarUsuario",
+        "peekOfCode": "def listarUsuario():\n    try:\n        id = input(f\"Digite o {formatarTexto_negrito(\"ID\")} do usuário: {formatarTexto_italico('(deixe em branco para listar todos) ')}\")\n        if id == \"\":\n            usuarios = pegarTodos(\"Usuario\")\n            if usuarios is None:\n                raise Exception(\"Nenhum usuário encontrado.\")\n            tamanhoTotal = len(usuarios)\n            count = 0\n            print()",
+        "detail": "src.functions.listarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "pegarTodos",
+        "kind": 2,
+        "importPath": "src.functions.pegarTodos",
+        "description": "src.functions.pegarTodos",
+        "peekOfCode": "def pegarTodos(colecao: str) -> list[Compra] | list[Produto] | list[Usuario] | list[Vendedor] | None:\n    try:\n        result = search_nodes(colecao)\n        if result == [] or result is None:\n            raise\n        dados = []\n        match colecao:\n            case \"Usuario\":\n                for usuario in result:\n                    dados.append(Usuario.fromDict(usuario))",
+        "detail": "src.functions.pegarTodos",
+        "documentation": {}
+    },
+    {
+        "label": "pegarUm",
+        "kind": 2,
+        "importPath": "src.functions.pegarUm",
+        "description": "src.functions.pegarUm",
+        "peekOfCode": "def pegarUm(colecao: str, identificador: str) -> Compra | Produto | Usuario | Vendedor | None:\n    try: \n        filtro = \"id = \" + identificador\n        result = search_nodes(colecao, filtro)\n        if result == [] or result is None:\n            raise\n        match colecao:\n            case \"Usuario\":\n                return Usuario.fromDict(result[0])\n            case \"Vendedor\":",
+        "detail": "src.functions.pegarUm",
         "documentation": {}
     },
     {
@@ -738,7 +917,7 @@
         "kind": 2,
         "importPath": "src.layouts.menuPrincipal",
         "description": "src.layouts.menuPrincipal",
-        "peekOfCode": "def menuPrincipal():\n    while True:\n        limparTerminal()\n        print(\"==\" * 21)\n        print(formatarTexto_negrito(\"Menu Principal\"))\n        print(\"1 - CRUD de Compras\")\n        print(\"2 - CRUD de Produtos\")\n        print(\"3 - CRUD de Usuários\")\n        print(\"4 - CRUD de Vendedores\")\n        print(\"0 - Sair\")",
+        "peekOfCode": "def menuPrincipal():\n    while True:\n        limparTerminal()\n        print(\"==\" * 21)\n        print(formatarTexto_negrito(\"Menu Principal\"))\n        # print(\"1 - CRUD de Compras\")\n        # print(\"2 - CRUD de Produtos\")\n        print(\"3 - CRUD de Usuários\")\n        # print(\"4 - CRUD de Vendedores\")\n        print(\"0 - Sair\")",
         "detail": "src.layouts.menuPrincipal",
         "documentation": {}
     },
@@ -756,7 +935,7 @@
         "kind": 2,
         "importPath": "src.layouts.menuUsuario",
         "description": "src.layouts.menuUsuario",
-        "peekOfCode": "def menuUsuario():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Usuário\"))\n        print(\"1 - Cadastrar Usuário\")\n        print(\"2 - Listar Usuários\")\n        print(\"4 - Deletar Usuário\")\n        print(\"0 - Voltar\")\n        print(\"-=\" * 20 + \"-\")",
+        "peekOfCode": "def menuUsuario():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Usuário\"))\n        print(\"1 - Cadastrar Usuário\")\n        print(\"2 - Listar Usuários\")\n        print(\"0 - Voltar\")\n        print(\"-=\" * 20 + \"-\")\n        opcao = input(\"\\nDigite a opção desejada: \")",
         "detail": "src.layouts.menuUsuario",
         "documentation": {}
     },
@@ -765,7 +944,7 @@
         "kind": 2,
         "importPath": "src.layouts.menuVendedor",
         "description": "src.layouts.menuVendedor",
-        "peekOfCode": "def menuVendedor():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Vendedor\"))\n        print(\"1 - Cadastrar Vendedor\")\n        print(\"2 - Listar Vendedores\")\n        print(\"4 - Deletar Vendedor\")\n        print(\"0 - Voltar\")\n        print(\"-=\" * 20 + \"-\")",
+        "peekOfCode": "def menuVendedor():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Vendedor\"))\n        print(\"1 - Cadastrar Vendedor\")\n        print(\"2 - Listar Vendedores\")\n        print(\"0 - Voltar\")\n        print(\"-=\" * 20 + \"-\")\n        opcao = input(\"\\nDigite a opção desejada: \")",
         "detail": "src.layouts.menuVendedor",
         "documentation": {}
     },

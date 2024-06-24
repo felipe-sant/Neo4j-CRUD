@@ -3,7 +3,7 @@ from src.classes.produto import Produto
 
 @dataclass
 class Usuario:
-    _id: str = field(default=None, repr=False)
+    id: str = field(default=None, repr=False)
     nome: str = field(default="")
     endereco: str = field(default="")
     rg: str = field(default="")
@@ -11,7 +11,7 @@ class Usuario:
     
     def __str__(self) -> str:
         listagem = ""
-        listagem += f"_id: {self._id}\n" if self._id is not None else ""
+        listagem += f"id: {self.id}\n" if self.id is not None else ""
         listagem += f"nome: {self.nome}\n" if self.nome != "" else ""
         listagem += f"endereco: {self.endereco}\n" if self.endereco != "" else ""
         listagem += f"rg: {self.rg}\n" if self.rg != "" else ""
@@ -20,7 +20,7 @@ class Usuario:
             listagem += "favoritos:\n"
             for produto in self.favoritos:
                 count += 1
-                listagem += f"\t_id: {produto['_id']}\n" if produto.get("_id", None) else ""
+                listagem += f"\tid: {produto['id']}\n" if produto.get("id", None) else ""
                 listagem += f"\tnome: {produto['nome']}\n" if produto.get("nome", None) else ""
                 listagem += f"\tpreco: {produto['preco']}\n" if produto.get("preco", None) else ""
                 if count != 0:
@@ -29,15 +29,15 @@ class Usuario:
     
     def addProduto(self, produto: Produto) -> None:
         newProduto = {
-            "id": produto._id,
+            "id": produto.id,
             "nome": produto.nome,
             "preco": produto.preco
         }
         self.favoritos.append(newProduto)
     
-    def removeProduto(self, _id: str) -> None:
+    def removeProduto(self, id: str) -> None:
         for produto in self.favoritos:
-            if produto.get("id", None) == _id:
+            if produto.get("id", None) == id:
                 self.favoritos.remove(produto)
                 break
     
@@ -48,7 +48,7 @@ class Usuario:
     @classmethod
     def fromDict(cls, usuarioJson: dict) :
         return cls(
-            _id = usuarioJson.get("_id", None),
+            id = usuarioJson.get("id", None),
             nome = usuarioJson.get("nome", ""),
             endereco = usuarioJson.get("endereco", ""),
             rg = usuarioJson.get("rg", ""),
@@ -56,7 +56,7 @@ class Usuario:
         )
         
     def validate(self) -> None:
-        if self._id is not None and not isinstance(self._id, str):
+        if self.id is not None and not isinstance(self.id, str):
             raise ValueError("id deve ser uma string")
         if not isinstance(self.nome, str):
             raise ValueError("nome deve ser uma string")

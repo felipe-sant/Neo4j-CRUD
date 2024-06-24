@@ -9,7 +9,6 @@ def menuVendedor():
         print(formatarTexto_negrito("Menu Vendedor"))
         print("1 - Cadastrar Vendedor")
         print("2 - Listar Vendedores")
-        print("4 - Deletar Vendedor")
         print("0 - Voltar")
         print("-=" * 20 + "-")
         

@@ -3,14 +3,14 @@ from src.classes.produto import Produto
 
 @dataclass
 class Vendedor:
-    _id: str = field(default=None, repr=False)
+    id: str = field(default=None, repr=False)
     nome: str = field(default="")
     rg: str = field(default="")
     produtos: list[dict[str, any]] = field(default_factory=list)
     
     def __str__(self) -> str:
         listagem = ""
-        listagem += f"_id: {self._id}\n" if self._id is not None else ""
+        listagem += f"id: {self.id}\n" if self.id is not None else ""
         listagem += f"nome: {self.nome}\n" if self.nome != "" else ""
         listagem += f"rg: {self.rg}\n" if self.rg != "" else ""
         if self.produtos != []:
@@ -27,16 +27,16 @@ class Vendedor:
     
     def addProduto(self, produto: Produto) -> None:
         newProduto = {
-            "id": produto._id,
+            "id": produto.id,
             "nome": produto.nome,
             "preco": produto.preco
         }
         if newProduto not in self.produtos:
             self.produtos.append(newProduto)
         
-    def removeProduto(self, _id: str) -> None:
+    def removeProduto(self, id: str) -> None:
         for produto in self.produtos:
-            if produto.get("id", None) == _id:
+            if produto.get("id", None) == id:
                 self.produtos.remove(produto)
                 break
     
@@ -47,14 +47,14 @@ class Vendedor:
     @classmethod
     def fromDict(cls, vendedorJson: dict) :
         return cls(
-            _id = vendedorJson.get("_id", None),
+            id = vendedorJson.get("id", None),
             nome = vendedorJson.get("nome", ""),
             rg = vendedorJson.get("rg", ""),
             produtos = vendedorJson.get("produtos", [])
         )
         
     def validate(self) -> None:
-        if self._id is not None and not isinstance(self._id, str):
+        if self.id is not None and not isinstance(self.id, str):
             raise ValueError("id deve ser uma string")
         if not isinstance(self.nome, str):
             raise ValueError("nome deve ser uma string")

@@ -2,7 +2,7 @@ from dataclasses import dataclass, field, asdict
 
 @dataclass
 class Produto:
-    _id: str = field(default=None, repr=False)
+    id: str = field(default=None, repr=False)
     nome: str = field(default="")
     descricao: str = field(default="")
     preco: float = field(default=0.0)
@@ -11,7 +11,7 @@ class Produto:
     
     def __str__(self) -> str:
         listagem = ""
-        listagem += f"_id: {self._id}\n" if self._id is not None else ""
+        listagem += f"id: {self.id}\n" if self.id is not None else ""
         listagem += f"nome: {self.nome}\n" if self.nome != "" else ""
         listagem += f"descricao: {self.descricao}\n" if self.descricao != "" else ""
         listagem += f"preco: {self.preco}\n" if self.preco != 0.0 else ""
@@ -29,7 +29,7 @@ class Produto:
     @classmethod
     def fromDict(cls, produtoJson: dict) :
         return cls(
-            _id = produtoJson.get("_id", None),
+            id = produtoJson.get("id", None),
             nome = produtoJson.get("nome", ""),
             descricao = produtoJson.get("descricao", ""),
             preco = produtoJson.get("preco", 0.0),
@@ -38,7 +38,7 @@ class Produto:
         )
         
     def validate(self) -> None:
-        if self._id is not None and not isinstance(self._id, str):
+        if self.id is not None and not isinstance(self.id, str):
             raise ValueError("id deve ser uma string")
         if not isinstance(self.nome, str):
             raise ValueError("nome deve ser uma string")
@@ -51,8 +51,8 @@ class Produto:
         if not isinstance(self.vendedor, dict):
             raise ValueError("vendedor deve ser um dicionário")
         if self.vendedor:
-            if self.vendedor.get("_id", None) is not None and not isinstance(self.vendedor["_id"], str):
-                raise ValueError("vendedor['_id'] deve ser uma string")
+            if self.vendedor.get("id", None) is not None and not isinstance(self.vendedor["id"], str):
+                raise ValueError("vendedor['id'] deve ser uma string")
             if not isinstance(self.vendedor.get("nome", ""), str):
                 raise ValueError("vendedor['nome'] deve ser uma string")
             
