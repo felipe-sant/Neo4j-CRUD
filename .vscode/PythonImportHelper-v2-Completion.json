@@ -248,6 +248,70 @@
         "documentation": {}
     },
     {
+        "label": "driver",
+        "importPath": "src.database.connection",
+        "description": "src.database.connection",
+        "isExtraImport": true,
+        "detail": "src.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "count_nodes",
+        "importPath": "src.database.count_nodes",
+        "description": "src.database.count_nodes",
+        "isExtraImport": true,
+        "detail": "src.database.count_nodes",
+        "documentation": {}
+    },
+    {
         "label": "count_nodes",
         "importPath": "src.database.count_nodes",
         "description": "src.database.count_nodes",
@@ -320,6 +384,14 @@
         "documentation": {}
     },
     {
+        "label": "formatarTexto_azul",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
         "label": "formatarTexto_vermelho",
         "importPath": "src.utils.formatarTexto",
         "description": "src.utils.formatarTexto",
@@ -329,6 +401,46 @@
     },
     {
         "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
         "importPath": "src.utils.formatarTexto",
         "description": "src.utils.formatarTexto",
         "isExtraImport": true,
@@ -712,6 +824,22 @@
         "documentation": {}
     },
     {
+        "label": "criarCompra",
+        "importPath": "src.utils.criarCompra",
+        "description": "src.utils.criarCompra",
+        "isExtraImport": true,
+        "detail": "src.utils.criarCompra",
+        "documentation": {}
+    },
+    {
+        "label": "insert_compra",
+        "importPath": "src.database.insert_compra",
+        "description": "src.database.insert_compra",
+        "isExtraImport": true,
+        "detail": "src.database.insert_compra",
+        "documentation": {}
+    },
+    {
         "label": "criarProduto",
         "importPath": "src.utils.criarProduto",
         "description": "src.utils.criarProduto",
@@ -760,27 +888,11 @@
         "documentation": {}
     },
     {
-        "label": "pegarTodos",
-        "importPath": "src.functions.pegarTodos",
-        "description": "src.functions.pegarTodos",
+        "label": "pegarUm",
+        "importPath": "src.functions.pegarUm",
+        "description": "src.functions.pegarUm",
         "isExtraImport": true,
-        "detail": "src.functions.pegarTodos",
-        "documentation": {}
-    },
-    {
-        "label": "pegarTodos",
-        "importPath": "src.functions.pegarTodos",
-        "description": "src.functions.pegarTodos",
-        "isExtraImport": true,
-        "detail": "src.functions.pegarTodos",
-        "documentation": {}
-    },
-    {
-        "label": "pegarTodos",
-        "importPath": "src.functions.pegarTodos",
-        "description": "src.functions.pegarTodos",
-        "isExtraImport": true,
-        "detail": "src.functions.pegarTodos",
+        "detail": "src.functions.pegarUm",
         "documentation": {}
     },
     {
@@ -808,43 +920,35 @@
         "documentation": {}
     },
     {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
+        "label": "pegarTodos",
+        "importPath": "src.functions.pegarTodos",
+        "description": "src.functions.pegarTodos",
         "isExtraImport": true,
-        "detail": "src.classes.compra",
+        "detail": "src.functions.pegarTodos",
         "documentation": {}
     },
     {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
+        "label": "pegarTodos",
+        "importPath": "src.functions.pegarTodos",
+        "description": "src.functions.pegarTodos",
         "isExtraImport": true,
-        "detail": "src.classes.compra",
+        "detail": "src.functions.pegarTodos",
         "documentation": {}
     },
     {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
+        "label": "pegarTodos",
+        "importPath": "src.functions.pegarTodos",
+        "description": "src.functions.pegarTodos",
         "isExtraImport": true,
-        "detail": "src.classes.compra",
+        "detail": "src.functions.pegarTodos",
         "documentation": {}
     },
     {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
+        "label": "pegarTodos",
+        "importPath": "src.functions.pegarTodos",
+        "description": "src.functions.pegarTodos",
         "isExtraImport": true,
-        "detail": "src.classes.compra",
-        "documentation": {}
-    },
-    {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
-        "isExtraImport": true,
-        "detail": "src.classes.compra",
+        "detail": "src.functions.pegarTodos",
         "documentation": {}
     },
     {
@@ -925,6 +1029,22 @@
         "description": "src.utils.limparTerminal",
         "isExtraImport": true,
         "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "cadastrarCompra",
+        "importPath": "src.functions.cadastrarCompra",
+        "description": "src.functions.cadastrarCompra",
+        "isExtraImport": true,
+        "detail": "src.functions.cadastrarCompra",
+        "documentation": {}
+    },
+    {
+        "label": "listarCompra",
+        "importPath": "src.functions.listarCompra",
+        "description": "src.functions.listarCompra",
+        "isExtraImport": true,
+        "detail": "src.functions.listarCompra",
         "documentation": {}
     },
     {
@@ -1129,6 +1249,15 @@
         "documentation": {}
     },
     {
+        "label": "insert_compra",
+        "kind": 2,
+        "importPath": "src.database.insert_compra",
+        "description": "src.database.insert_compra",
+        "peekOfCode": "def insert_compra(compra: Compra) -> str:\n    try:\n        total = count_nodes(\"Compra\")\n        nodeid = total + 1\n        dataCompra = compra.dataCompra\n        valorTotal = compra.valorTotal\n        def create_compra(tx, purchaseid, dataCompra, valorTotal):\n            query = \"\"\"\n            CREATE (:Compra {id: $purchaseid, dataCompra: $dataCompra, valorTotal: $valorTotal})\n            \"\"\"",
+        "detail": "src.database.insert_compra",
+        "documentation": {}
+    },
+    {
         "label": "insert_produto",
         "kind": 2,
         "importPath": "src.database.insert_produto",
@@ -1165,6 +1294,15 @@
         "documentation": {}
     },
     {
+        "label": "cadastrarCompra",
+        "kind": 2,
+        "importPath": "src.functions.cadastrarCompra",
+        "description": "src.functions.cadastrarCompra",
+        "peekOfCode": "def cadastrarCompra():\n    try:\n        compra = criarCompra(isRequired=True)\n        result = insert_compra(compra)\n        print()\n        print(result)\n        input()\n    except Exception as e:\n        print(f\"\\nFalha ao cadastrar compra: {formatarTexto_vermelho(str(e))}\")\n        input()",
+        "detail": "src.functions.cadastrarCompra",
+        "documentation": {}
+    },
+    {
         "label": "cadastrarProduto",
         "kind": 2,
         "importPath": "src.functions.cadastrarProduto",
@@ -1189,6 +1327,15 @@
         "description": "src.functions.cadastrarVendedor",
         "peekOfCode": "def cadastrarVendedor():\n    try:\n        vendedor = criarVendedor(isRequired=True)\n        result = insert_vendedor(vendedor)\n        print()\n        print(result)\n        input()\n    except Exception as e:\n        print(f\"\\nFalha ao cadastrar vendedor: {formatarTexto_vermelho(str(e))}\")\n        input()",
         "detail": "src.functions.cadastrarVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "listarCompra",
+        "kind": 2,
+        "importPath": "src.functions.listarCompra",
+        "description": "src.functions.listarCompra",
+        "peekOfCode": "def listarCompra():\n    try:\n        id = input(f\"Digite o {formatarTexto_negrito('ID')} da compra: {formatarTexto_italico('(deixe em branco para listar todas) ')}\")\n        if id == \"\":\n            compras = pegarTodos(\"Compra\")\n            if compras is None:\n                raise Exception(\"Nenhuma compra encontrada.\")\n            tamanhoTotal = len(compras)\n            count = 0\n            print()",
+        "detail": "src.functions.listarCompra",
         "documentation": {}
     },
     {
@@ -1259,7 +1406,7 @@
         "kind": 2,
         "importPath": "src.layouts.menuCompra",
         "description": "src.layouts.menuCompra",
-        "peekOfCode": "def menuCompra():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Compra\"))\n        print(\"1 - Cadastrar Compra\")\n        print(\"2 - Listar Compras\")\n        print(\"3 - Deletar Compra\")\n        print(\"0 - Voltar\")\n        print(\"-=\" * 20 + \"-\")",
+        "peekOfCode": "def menuCompra():\n    while True:\n        limparTerminal()\n        print(\"-=\" * 20 + \"-\")\n        print(formatarTexto_negrito(\"Menu Compra\"))\n        print(\"1 - Cadastrar Compra\")\n        print(\"2 - Listar Compras\")\n        print(\"0 - Voltar\")\n        print(\"-=\" * 20 + \"-\")\n        opcao = input(\"\\nDigite a opção desejada: \")",
         "detail": "src.layouts.menuCompra",
         "documentation": {}
     },
@@ -1268,7 +1415,7 @@
         "kind": 2,
         "importPath": "src.layouts.menuPrincipal",
         "description": "src.layouts.menuPrincipal",
-        "peekOfCode": "def menuPrincipal():\n    while True:\n        limparTerminal()\n        print(\"==\" * 21)\n        print(formatarTexto_negrito(\"Menu Principal\"))\n        # print(\"1 - CRUD de Compras\")\n        print(\"2 - CRUD de Produtos\")\n        print(\"3 - CRUD de Usuários\")\n        print(\"4 - CRUD de Vendedores\")\n        print(\"0 - Sair\")",
+        "peekOfCode": "def menuPrincipal():\n    while True:\n        limparTerminal()\n        print(\"==\" * 21)\n        print(formatarTexto_negrito(\"Menu Principal\"))\n        print(\"1 - CRUD de Compras\")\n        print(\"2 - CRUD de Produtos\")\n        print(\"3 - CRUD de Usuários\")\n        print(\"4 - CRUD de Vendedores\")\n        print(\"0 - Sair\")",
         "detail": "src.layouts.menuPrincipal",
         "documentation": {}
     },

@@ -1,5 +1,7 @@
 from src.utils.limparTerminal import limparTerminal
 from src.utils.formatarTexto import formatarTexto_negrito
+from src.functions.cadastrarCompra import cadastrarCompra
+from src.functions.listarCompra import listarCompra
 
 def menuCompra():
     while True:
@@ -9,7 +11,6 @@ def menuCompra():
         print(formatarTexto_negrito("Menu Compra"))
         print("1 - Cadastrar Compra")
         print("2 - Listar Compras")
-        print("3 - Deletar Compra")
         print("0 - Voltar")
         print("-=" * 20 + "-")
         
@@ -17,11 +18,9 @@ def menuCompra():
         
         match opcao:
             case "1":
-                pass
+                cadastrarCompra()
             case "2":
-                pass
-            case "3":
-                pass
+                listarCompra()
             case "0":
                 return
             case _:
