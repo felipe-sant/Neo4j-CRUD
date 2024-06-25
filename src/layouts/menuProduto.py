@@ -1,5 +1,6 @@
 from src.utils.limparTerminal import limparTerminal
 from src.utils.formatarTexto import formatarTexto_negrito
+from src.functions.cadastrarProduto import cadastrarProduto
 
 def menuProduto():
     while True:
@@ -9,7 +10,6 @@ def menuProduto():
         print(formatarTexto_negrito("Menu Produto"))
         print("1 - Cadastrar Produto")
         print("2 - Listar Produtos")
-        print("3 - Deletar Produto")
         print("0 - Voltar")
         print("-=" * 20 + "-")
         
@@ -17,10 +17,8 @@ def menuProduto():
         
         match opcao:
             case "1":
-                pass
+                cadastrarProduto()
             case "2":
-                pass
-            case "3":
                 pass
             case "0":
                 return

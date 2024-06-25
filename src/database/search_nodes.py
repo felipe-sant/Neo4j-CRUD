@@ -20,4 +20,4 @@ def search_nodes(collection: str, filter: Optional[str] = None) -> Optional[List
         print("Operation canceled by the user.")
         return None
 
-# Path: src/database/search_usuario.py
+# Path: src/database/search_nodes.py

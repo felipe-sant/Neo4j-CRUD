@@ -1,11 +1,11 @@
 from src.utils.criarUsuario import criarUsuario
-from src.database.create_usuario import create_usuario
+from src.database.insert_usuario import insert_usuario
 from src.utils.formatarTexto import formatarTexto_vermelho
 
 def cadastrarUsuario():
     try:
         usuario = criarUsuario(isRequired=True)
-        result = create_usuario(usuario)
+        result = insert_usuario(usuario)
         print()
         print(result)
         input()

@@ -12,7 +12,7 @@ def menuPrincipal():
         print("==" * 21)
         print(formatarTexto_negrito("Menu Principal"))
         # print("1 - CRUD de Compras")
-        # print("2 - CRUD de Produtos")
+        print("2 - CRUD de Produtos")
         print("3 - CRUD de Usuários")
         # print("4 - CRUD de Vendedores")
         print("0 - Sair")
