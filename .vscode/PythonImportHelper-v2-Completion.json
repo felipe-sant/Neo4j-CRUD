@@ -328,6 +328,30 @@
         "documentation": {}
     },
     {
+        "label": "formatarTexto_italico",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
         "label": "formatarTexto_vermelho",
         "importPath": "src.utils.formatarTexto",
         "description": "src.utils.formatarTexto",
@@ -624,6 +648,22 @@
         "documentation": {}
     },
     {
+        "label": "pegarTodos",
+        "importPath": "src.functions.pegarTodos",
+        "description": "src.functions.pegarTodos",
+        "isExtraImport": true,
+        "detail": "src.functions.pegarTodos",
+        "documentation": {}
+    },
+    {
+        "label": "pegarUm",
+        "importPath": "src.functions.pegarUm",
+        "description": "src.functions.pegarUm",
+        "isExtraImport": true,
+        "detail": "src.functions.pegarUm",
+        "documentation": {}
+    },
+    {
         "label": "pegarUm",
         "importPath": "src.functions.pegarUm",
         "description": "src.functions.pegarUm",
@@ -824,6 +864,14 @@
         "documentation": {}
     },
     {
+        "label": "listarProduto",
+        "importPath": "src.functions.listarProduto",
+        "description": "src.functions.listarProduto",
+        "isExtraImport": true,
+        "detail": "src.functions.listarProduto",
+        "documentation": {}
+    },
+    {
         "label": "listarUsuario",
         "importPath": "src.functions.listarUsuario",
         "description": "src.functions.listarUsuario",
@@ -1003,6 +1051,15 @@
         "description": "src.functions.cadastrarUsuario",
         "peekOfCode": "def cadastrarUsuario():\n    try:\n        usuario = criarUsuario(isRequired=True)\n        result = insert_usuario(usuario)\n        print()\n        print(result)\n        input()\n    except Exception as e:\n        print(f\"\\nFalha ao cadastrar usuário: {formatarTexto_vermelho(str(e))}\")\n        input()",
         "detail": "src.functions.cadastrarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "listarProduto",
+        "kind": 2,
+        "importPath": "src.functions.listarProduto",
+        "description": "src.functions.listarProduto",
+        "peekOfCode": "def listarProduto():\n    try:\n        id = input(f\"Digite o {formatarTexto_negrito(\"ID\")} do produto: {formatarTexto_italico('(deixe em branco para listar todos) ')}\")\n        if id == \"\":\n            produtos = pegarTodos(\"Produto\")\n            if produtos is None:\n                raise Exception(\"Nenhum produto encontrado.\")\n            tamanhoTotal = len(produtos)\n            count = 0\n            print()",
+        "detail": "src.functions.listarProduto",
         "documentation": {}
     },
     {
