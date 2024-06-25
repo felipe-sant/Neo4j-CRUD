@@ -14,7 +14,7 @@ def menuPrincipal():
         # print("1 - CRUD de Compras")
         print("2 - CRUD de Produtos")
         print("3 - CRUD de Usuários")
-        # print("4 - CRUD de Vendedores")
+        print("4 - CRUD de Vendedores")
         print("0 - Sair")
         print("==" * 21)
         

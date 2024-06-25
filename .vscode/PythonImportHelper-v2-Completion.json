@@ -240,6 +240,22 @@
         "documentation": {}
     },
     {
+        "label": "driver",
+        "importPath": "src.database.connection",
+        "description": "src.database.connection",
+        "isExtraImport": true,
+        "detail": "src.database.connection",
+        "documentation": {}
+    },
+    {
+        "label": "count_nodes",
+        "importPath": "src.database.count_nodes",
+        "description": "src.database.count_nodes",
+        "isExtraImport": true,
+        "detail": "src.database.count_nodes",
+        "documentation": {}
+    },
+    {
         "label": "count_nodes",
         "importPath": "src.database.count_nodes",
         "description": "src.database.count_nodes",
@@ -288,7 +304,55 @@
         "documentation": {}
     },
     {
+        "label": "formatarTexto_azul",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
         "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
         "importPath": "src.utils.formatarTexto",
         "description": "src.utils.formatarTexto",
         "isExtraImport": true,
@@ -536,6 +600,46 @@
         "documentation": {}
     },
     {
+        "label": "Vendedor",
+        "importPath": "src.classes.vendedor",
+        "description": "src.classes.vendedor",
+        "isExtraImport": true,
+        "detail": "src.classes.vendedor",
+        "documentation": {}
+    },
+    {
+        "label": "Vendedor",
+        "importPath": "src.classes.vendedor",
+        "description": "src.classes.vendedor",
+        "isExtraImport": true,
+        "detail": "src.classes.vendedor",
+        "documentation": {}
+    },
+    {
+        "label": "Vendedor",
+        "importPath": "src.classes.vendedor",
+        "description": "src.classes.vendedor",
+        "isExtraImport": true,
+        "detail": "src.classes.vendedor",
+        "documentation": {}
+    },
+    {
+        "label": "Vendedor",
+        "importPath": "src.classes.vendedor",
+        "description": "src.classes.vendedor",
+        "isExtraImport": true,
+        "detail": "src.classes.vendedor",
+        "documentation": {}
+    },
+    {
+        "label": "Vendedor",
+        "importPath": "src.classes.vendedor",
+        "description": "src.classes.vendedor",
+        "isExtraImport": true,
+        "detail": "src.classes.vendedor",
+        "documentation": {}
+    },
+    {
         "label": "List",
         "importPath": "typing",
         "description": "typing",
@@ -640,6 +744,30 @@
         "documentation": {}
     },
     {
+        "label": "criarVendedor",
+        "importPath": "src.utils.criarVendedor",
+        "description": "src.utils.criarVendedor",
+        "isExtraImport": true,
+        "detail": "src.utils.criarVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "insert_vendedor",
+        "importPath": "src.database.insert_vendedor",
+        "description": "src.database.insert_vendedor",
+        "isExtraImport": true,
+        "detail": "src.database.insert_vendedor",
+        "documentation": {}
+    },
+    {
+        "label": "pegarTodos",
+        "importPath": "src.functions.pegarTodos",
+        "description": "src.functions.pegarTodos",
+        "isExtraImport": true,
+        "detail": "src.functions.pegarTodos",
+        "documentation": {}
+    },
+    {
         "label": "pegarTodos",
         "importPath": "src.functions.pegarTodos",
         "description": "src.functions.pegarTodos",
@@ -672,35 +800,11 @@
         "documentation": {}
     },
     {
-        "label": "Vendedor",
-        "importPath": "src.classes.vendedor",
-        "description": "src.classes.vendedor",
+        "label": "pegarUm",
+        "importPath": "src.functions.pegarUm",
+        "description": "src.functions.pegarUm",
         "isExtraImport": true,
-        "detail": "src.classes.vendedor",
-        "documentation": {}
-    },
-    {
-        "label": "Vendedor",
-        "importPath": "src.classes.vendedor",
-        "description": "src.classes.vendedor",
-        "isExtraImport": true,
-        "detail": "src.classes.vendedor",
-        "documentation": {}
-    },
-    {
-        "label": "Vendedor",
-        "importPath": "src.classes.vendedor",
-        "description": "src.classes.vendedor",
-        "isExtraImport": true,
-        "detail": "src.classes.vendedor",
-        "documentation": {}
-    },
-    {
-        "label": "Vendedor",
-        "importPath": "src.classes.vendedor",
-        "description": "src.classes.vendedor",
-        "isExtraImport": true,
-        "detail": "src.classes.vendedor",
+        "detail": "src.functions.pegarUm",
         "documentation": {}
     },
     {
@@ -888,6 +992,22 @@
         "documentation": {}
     },
     {
+        "label": "cadastrarVendedor",
+        "importPath": "src.functions.cadastrarVendedor",
+        "description": "src.functions.cadastrarVendedor",
+        "isExtraImport": true,
+        "detail": "src.functions.cadastrarVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "listarVendedor",
+        "importPath": "src.functions.listarVendedor",
+        "description": "src.functions.listarVendedor",
+        "isExtraImport": true,
+        "detail": "src.functions.listarVendedor",
+        "documentation": {}
+    },
+    {
         "label": "solicitarInput",
         "importPath": "src.utils.solicitarInput",
         "description": "src.utils.solicitarInput",
@@ -1027,6 +1147,15 @@
         "documentation": {}
     },
     {
+        "label": "insert_vendedor",
+        "kind": 2,
+        "importPath": "src.database.insert_vendedor",
+        "description": "src.database.insert_vendedor",
+        "peekOfCode": "def insert_vendedor(vendedor: Vendedor) -> str:\n    try:\n        total = count_nodes(\"Vendedor\")\n        nodeid = total + 1\n        nome = vendedor.nome\n        rg = vendedor.rg\n        def create_vendedor(tx, sellerid, nome, rg):\n            querry = \"\"\"\n            CREATE (:Vendedor {id: $sellerid, nome: $nome, rg: $rg})\n            \"\"\"",
+        "detail": "src.database.insert_vendedor",
+        "documentation": {}
+    },
+    {
         "label": "search_nodes",
         "kind": 2,
         "importPath": "src.database.search_nodes",
@@ -1054,6 +1183,15 @@
         "documentation": {}
     },
     {
+        "label": "cadastrarVendedor",
+        "kind": 2,
+        "importPath": "src.functions.cadastrarVendedor",
+        "description": "src.functions.cadastrarVendedor",
+        "peekOfCode": "def cadastrarVendedor():\n    try:\n        vendedor = criarVendedor(isRequired=True)\n        result = insert_vendedor(vendedor)\n        print()\n        print(result)\n        input()\n    except Exception as e:\n        print(f\"\\nFalha ao cadastrar vendedor: {formatarTexto_vermelho(str(e))}\")\n        input()",
+        "detail": "src.functions.cadastrarVendedor",
+        "documentation": {}
+    },
+    {
         "label": "listarProduto",
         "kind": 2,
         "importPath": "src.functions.listarProduto",
@@ -1069,6 +1207,15 @@
         "description": "src.functions.listarUsuario",
         "peekOfCode": "def listarUsuario():\n    try:\n        id = input(f\"Digite o {formatarTexto_negrito(\"ID\")} do usuário: {formatarTexto_italico('(deixe em branco para listar todos) ')}\")\n        if id == \"\":\n            usuarios = pegarTodos(\"Usuario\")\n            if usuarios is None:\n                raise Exception(\"Nenhum usuário encontrado.\")\n            tamanhoTotal = len(usuarios)\n            count = 0\n            print()",
         "detail": "src.functions.listarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "listarVendedor",
+        "kind": 2,
+        "importPath": "src.functions.listarVendedor",
+        "description": "src.functions.listarVendedor",
+        "peekOfCode": "def listarVendedor():\n    try:\n        id = input(f\"Digite o {formatarTexto_negrito(\"ID\")} do vendedor: {formatarTexto_italico('(deixe em branco para listar todos) ')}\")\n        if id == \"\":\n            vendedores = pegarTodos(\"Vendedor\")\n            if vendedores is None:\n                raise Exception(\"Nenhum vendedor encontrado.\")\n            tamanhoTotal = len(vendedores)\n            count = 0\n            print()",
+        "detail": "src.functions.listarVendedor",
         "documentation": {}
     },
     {
@@ -1121,7 +1268,7 @@
         "kind": 2,
         "importPath": "src.layouts.menuPrincipal",
         "description": "src.layouts.menuPrincipal",
-        "peekOfCode": "def menuPrincipal():\n    while True:\n        limparTerminal()\n        print(\"==\" * 21)\n        print(formatarTexto_negrito(\"Menu Principal\"))\n        # print(\"1 - CRUD de Compras\")\n        print(\"2 - CRUD de Produtos\")\n        print(\"3 - CRUD de Usuários\")\n        # print(\"4 - CRUD de Vendedores\")\n        print(\"0 - Sair\")",
+        "peekOfCode": "def menuPrincipal():\n    while True:\n        limparTerminal()\n        print(\"==\" * 21)\n        print(formatarTexto_negrito(\"Menu Principal\"))\n        # print(\"1 - CRUD de Compras\")\n        print(\"2 - CRUD de Produtos\")\n        print(\"3 - CRUD de Usuários\")\n        print(\"4 - CRUD de Vendedores\")\n        print(\"0 - Sair\")",
         "detail": "src.layouts.menuPrincipal",
         "documentation": {}
     },
