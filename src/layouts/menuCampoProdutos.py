@@ -4,6 +4,7 @@ from src.classes.vendedor import Vendedor
 from src.classes.compra import Compra
 from src.functions.listarProduto import listarProduto
 from src.functions.adicionarProdutoCompra import adicionarProdutoCompra
+from src.functions.adicionarProdutoVendedor import adicionarProdutoVendedor
 
 def menuCampoProdutos(colecao: Compra | Vendedor) -> Compra | Vendedor:
     while True:
@@ -22,7 +23,7 @@ def menuCampoProdutos(colecao: Compra | Vendedor) -> Compra | Vendedor:
         match opcao:
             case "1":
                 if colecao.__class__ == Vendedor:
-                    pass
+                    adicionarProdutoVendedor(colecao)
                 if colecao.__class__ == Compra:
                     adicionarProdutoCompra(colecao)
             case "2":

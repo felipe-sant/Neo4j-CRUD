@@ -5,8 +5,8 @@ from src.utils.formatarTexto import formatarTexto_vermelho
 
 def definirProdutoDoVendedor(produto: Produto, vendedor: Vendedor):
     try:
-        produto - f"Produto {id: {produto.id}}"
-        vendedor = f"Vendedor {id: {vendedor.id}}"
+        produto = "Produto {id: " + str(produto.id) + "}"
+        vendedor = "Vendedor {id: " + str(vendedor.id) + "}"
         result = create_relation(produto, vendedor, "PERTENCE_A")
         if result:
             print()

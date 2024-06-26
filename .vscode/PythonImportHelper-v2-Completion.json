@@ -432,6 +432,14 @@
         "documentation": {}
     },
     {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
         "label": "formatarTexto_italico",
         "importPath": "src.utils.formatarTexto",
         "description": "src.utils.formatarTexto",
@@ -840,6 +848,22 @@
         "documentation": {}
     },
     {
+        "label": "count_nodes",
+        "importPath": "src.database.count_nodes",
+        "description": "src.database.count_nodes",
+        "isExtraImport": true,
+        "detail": "src.database.count_nodes",
+        "documentation": {}
+    },
+    {
+        "label": "Vendedor",
+        "importPath": "src.classes.vendedor",
+        "description": "src.classes.vendedor",
+        "isExtraImport": true,
+        "detail": "src.classes.vendedor",
+        "documentation": {}
+    },
+    {
         "label": "Vendedor",
         "importPath": "src.classes.vendedor",
         "description": "src.classes.vendedor",
@@ -1008,6 +1032,14 @@
         "documentation": {}
     },
     {
+        "label": "pegarUm",
+        "importPath": "src.functions.pegarUm",
+        "description": "src.functions.pegarUm",
+        "isExtraImport": true,
+        "detail": "src.functions.pegarUm",
+        "documentation": {}
+    },
+    {
         "label": "definirProdutoDaCompra",
         "importPath": "src.functions.definirProdutoDaCompra",
         "description": "src.functions.definirProdutoDaCompra",
@@ -1021,6 +1053,14 @@
         "description": "src.functions.definirProdutoDaCompra",
         "isExtraImport": true,
         "detail": "src.functions.definirProdutoDaCompra",
+        "documentation": {}
+    },
+    {
+        "label": "definirProdutoDoVendedor",
+        "importPath": "src.functions.definirProdutoDoVendedor",
+        "description": "src.functions.definirProdutoDoVendedor",
+        "isExtraImport": true,
+        "detail": "src.functions.definirProdutoDoVendedor",
         "documentation": {}
     },
     {
@@ -1045,6 +1085,14 @@
         "description": "src.layouts.menuCampoUsuario",
         "isExtraImport": true,
         "detail": "src.layouts.menuCampoUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "menuCampoProdutos",
+        "importPath": "src.layouts.menuCampoProdutos",
+        "description": "src.layouts.menuCampoProdutos",
+        "isExtraImport": true,
+        "detail": "src.layouts.menuCampoProdutos",
         "documentation": {}
     },
     {
@@ -1277,6 +1325,14 @@
         "description": "src.functions.adicionarProdutoCompra",
         "isExtraImport": true,
         "detail": "src.functions.adicionarProdutoCompra",
+        "documentation": {}
+    },
+    {
+        "label": "adicionarProdutoVendedor",
+        "importPath": "src.functions.adicionarProdutoVendedor",
+        "description": "src.functions.adicionarProdutoVendedor",
+        "isExtraImport": true,
+        "detail": "src.functions.adicionarProdutoVendedor",
         "documentation": {}
     },
     {
@@ -1518,7 +1574,7 @@
         "kind": 2,
         "importPath": "src.database.insert_compra",
         "description": "src.database.insert_compra",
-        "peekOfCode": "def insert_compra(compra: Compra) -> str:\n    try:\n        total = count_nodes(\"Compra\")\n        nodeid = total + 1\n        dataCompra = compra.dataCompra\n        valorTotal = compra.valorTotal\n        def create_compra(tx, purchaseid, dataCompra, valorTotal):\n            query = \"\"\"\n            CREATE (:Compra {id: $purchaseid, dataCompra: $dataCompra, valorTotal: $valorTotal})\n            \"\"\"",
+        "peekOfCode": "def insert_compra(compra: Compra) -> str:\n    try:\n        total = count_nodes(\"Compra\")\n        nodeid = total + 1\n        dataCompra = compra.dataCompra\n        def create_compra(tx, purchaseid, dataCompra):\n            query = \"\"\"\n            CREATE (:Compra {id: $purchaseid, dataCompra: $dataCompra})\n            \"\"\"\n            tx.run(query, purchaseid=purchaseid, dataCompra=dataCompra)",
         "detail": "src.database.insert_compra",
         "documentation": {}
     },
@@ -1568,6 +1624,15 @@
         "documentation": {}
     },
     {
+        "label": "adicionarProdutoVendedor",
+        "kind": 2,
+        "importPath": "src.functions.adicionarProdutoVendedor",
+        "description": "src.functions.adicionarProdutoVendedor",
+        "peekOfCode": "def adicionarProdutoVendedor(vendedor: Vendedor):\n    try:\n        id = input(\"Digite o id do produto: \")\n        produto = pegarUm(\"Produto\", id)\n        if produto:\n            definirProdutoDoVendedor(produto, vendedor)\n            return\n        else:\n            raise Exception(\"Produto não encontrado\")\n    except Exception as e:",
+        "detail": "src.functions.adicionarProdutoVendedor",
+        "documentation": {}
+    },
+    {
         "label": "cadastrarCompra",
         "kind": 2,
         "importPath": "src.functions.cadastrarCompra",
@@ -1599,7 +1664,7 @@
         "kind": 2,
         "importPath": "src.functions.cadastrarVendedor",
         "description": "src.functions.cadastrarVendedor",
-        "peekOfCode": "def cadastrarVendedor():\n    try:\n        vendedor = criarVendedor(isRequired=True)\n        result = insert_vendedor(vendedor)\n        print()\n        print(result)\n        input()\n    except Exception as e:\n        print(f\"\\nFalha ao cadastrar vendedor: {formatarTexto_vermelho(str(e))}\")\n        input()",
+        "peekOfCode": "def cadastrarVendedor():\n    try:\n        vendedor = criarVendedor(isRequired=True)\n        vendedor.id = count_nodes(\"Vendedor\") + 1\n        result = insert_vendedor(vendedor)\n        menuCampoProdutos(vendedor)\n        print()\n        print(result)\n        input()\n    except Exception as e:",
         "detail": "src.functions.cadastrarVendedor",
         "documentation": {}
     },
@@ -1617,7 +1682,7 @@
         "kind": 2,
         "importPath": "src.functions.definirProdutoDoVendedor",
         "description": "src.functions.definirProdutoDoVendedor",
-        "peekOfCode": "def definirProdutoDoVendedor(produto: Produto, vendedor: Vendedor):\n    try:\n        produto - f\"Produto {id: {produto.id}}\"\n        vendedor = f\"Vendedor {id: {vendedor.id}}\"\n        result = create_relation(produto, vendedor, \"PERTENCE_A\")\n        if result:\n            print()\n            print(result)\n            input()\n    except Exception as e:",
+        "peekOfCode": "def definirProdutoDoVendedor(produto: Produto, vendedor: Vendedor):\n    try:\n        produto = \"Produto {id: \" + str(produto.id) + \"}\"\n        vendedor = \"Vendedor {id: \" + str(vendedor.id) + \"}\"\n        result = create_relation(produto, vendedor, \"PERTENCE_A\")\n        if result:\n            print()\n            print(result)\n            input()\n    except Exception as e:",
         "detail": "src.functions.definirProdutoDoVendedor",
         "documentation": {}
     },

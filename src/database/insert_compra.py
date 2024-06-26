@@ -8,20 +8,18 @@ def insert_compra(compra: Compra) -> str:
         total = count_nodes("Compra")
         nodeid = total + 1
         dataCompra = compra.dataCompra
-        valorTotal = compra.valorTotal
         
-        def create_compra(tx, purchaseid, dataCompra, valorTotal):
+        def create_compra(tx, purchaseid, dataCompra):
             query = """
-            CREATE (:Compra {id: $purchaseid, dataCompra: $dataCompra, valorTotal: $valorTotal})
+            CREATE (:Compra {id: $purchaseid, dataCompra: $dataCompra})
             """
-            tx.run(query, purchaseid=purchaseid, dataCompra=dataCompra, valorTotal=valorTotal)
+            tx.run(query, purchaseid=purchaseid, dataCompra=dataCompra)
             
         with driver.session() as session:
             session.write_transaction(
                 create_compra,
                 purchaseid=nodeid,
-                dataCompra=dataCompra,
-                valorTotal=valorTotal
+                dataCompra=dataCompra
             )
         
         return f"{formatarTexto_azul('Nó criado com sucesso!')}"
