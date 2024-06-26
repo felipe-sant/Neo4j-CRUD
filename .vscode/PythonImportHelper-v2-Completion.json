@@ -256,83 +256,27 @@
         "documentation": {}
     },
     {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
+        "label": "driver",
+        "importPath": "src.database.connection",
+        "description": "src.database.connection",
         "isExtraImport": true,
-        "detail": "src.classes.compra",
+        "detail": "src.database.connection",
         "documentation": {}
     },
     {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
+        "label": "formatarTexto_azul",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
         "isExtraImport": true,
-        "detail": "src.classes.compra",
+        "detail": "src.utils.formatarTexto",
         "documentation": {}
     },
     {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
         "isExtraImport": true,
-        "detail": "src.classes.compra",
-        "documentation": {}
-    },
-    {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
-        "isExtraImport": true,
-        "detail": "src.classes.compra",
-        "documentation": {}
-    },
-    {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
-        "isExtraImport": true,
-        "detail": "src.classes.compra",
-        "documentation": {}
-    },
-    {
-        "label": "Compra",
-        "importPath": "src.classes.compra",
-        "description": "src.classes.compra",
-        "isExtraImport": true,
-        "detail": "src.classes.compra",
-        "documentation": {}
-    },
-    {
-        "label": "count_nodes",
-        "importPath": "src.database.count_nodes",
-        "description": "src.database.count_nodes",
-        "isExtraImport": true,
-        "detail": "src.database.count_nodes",
-        "documentation": {}
-    },
-    {
-        "label": "count_nodes",
-        "importPath": "src.database.count_nodes",
-        "description": "src.database.count_nodes",
-        "isExtraImport": true,
-        "detail": "src.database.count_nodes",
-        "documentation": {}
-    },
-    {
-        "label": "count_nodes",
-        "importPath": "src.database.count_nodes",
-        "description": "src.database.count_nodes",
-        "isExtraImport": true,
-        "detail": "src.database.count_nodes",
-        "documentation": {}
-    },
-    {
-        "label": "count_nodes",
-        "importPath": "src.database.count_nodes",
-        "description": "src.database.count_nodes",
-        "isExtraImport": true,
-        "detail": "src.database.count_nodes",
+        "detail": "src.utils.formatarTexto",
         "documentation": {}
     },
     {
@@ -709,6 +653,86 @@
         "description": "src.utils.formatarTexto",
         "isExtraImport": true,
         "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "count_nodes",
+        "importPath": "src.database.count_nodes",
+        "description": "src.database.count_nodes",
+        "isExtraImport": true,
+        "detail": "src.database.count_nodes",
+        "documentation": {}
+    },
+    {
+        "label": "count_nodes",
+        "importPath": "src.database.count_nodes",
+        "description": "src.database.count_nodes",
+        "isExtraImport": true,
+        "detail": "src.database.count_nodes",
+        "documentation": {}
+    },
+    {
+        "label": "count_nodes",
+        "importPath": "src.database.count_nodes",
+        "description": "src.database.count_nodes",
+        "isExtraImport": true,
+        "detail": "src.database.count_nodes",
+        "documentation": {}
+    },
+    {
+        "label": "count_nodes",
+        "importPath": "src.database.count_nodes",
+        "description": "src.database.count_nodes",
+        "isExtraImport": true,
+        "detail": "src.database.count_nodes",
         "documentation": {}
     },
     {
@@ -1177,6 +1201,14 @@
         "documentation": {}
     },
     {
+        "label": "create_relation",
+        "importPath": "src.database.create_relation",
+        "description": "src.database.create_relation",
+        "isExtraImport": true,
+        "detail": "src.database.create_relation",
+        "documentation": {}
+    },
+    {
         "label": "Compra",
         "kind": 6,
         "importPath": "src.classes.compra",
@@ -1217,7 +1249,7 @@
         "kind": 5,
         "importPath": "src.database.connection",
         "description": "src.database.connection",
-        "peekOfCode": "uri = \"neo4j+s://dd585e27.databases.neo4j.io:7687\"\nauth = (\"neo4j\", \"jbq7Gbx0HaVqZQAWZJ5mktc5T9WftmGdMFnDkhFcWz0\")\ndriver = GraphDatabase.driver(\n    uri=uri, \n    auth=auth,\n    max_connection_lifetime=30,  # Tempo máximo de vida da conexão (em segundos)\n    max_connection_pool_size=50,  # Tamanho máximo do pool de conexões\n    connection_timeout=15  # Tempo limite de conexão (em segundos)\n)\n# Path: src/database/connection.py",
+        "peekOfCode": "uri = \"neo4j+s://e8f76211.databases.neo4j.io\"\nauth = (\"neo4j\", \"xhxov6nnL0M7o7VomqQpYkxxXas1Q2k3EcZZiv_d3xI\")\ndriver = GraphDatabase.driver(\n    uri=uri, \n    auth=auth,\n    max_connection_lifetime=30,  # Tempo máximo de vida da conexão (em segundos)\n    max_connection_pool_size=50,  # Tamanho máximo do pool de conexões\n    connection_timeout=15  # Tempo limite de conexão (em segundos)\n)\n# Path: src/database/connection.py",
         "detail": "src.database.connection",
         "documentation": {}
     },
@@ -1226,7 +1258,7 @@
         "kind": 5,
         "importPath": "src.database.connection",
         "description": "src.database.connection",
-        "peekOfCode": "auth = (\"neo4j\", \"jbq7Gbx0HaVqZQAWZJ5mktc5T9WftmGdMFnDkhFcWz0\")\ndriver = GraphDatabase.driver(\n    uri=uri, \n    auth=auth,\n    max_connection_lifetime=30,  # Tempo máximo de vida da conexão (em segundos)\n    max_connection_pool_size=50,  # Tamanho máximo do pool de conexões\n    connection_timeout=15  # Tempo limite de conexão (em segundos)\n)\n# Path: src/database/connection.py",
+        "peekOfCode": "auth = (\"neo4j\", \"xhxov6nnL0M7o7VomqQpYkxxXas1Q2k3EcZZiv_d3xI\")\ndriver = GraphDatabase.driver(\n    uri=uri, \n    auth=auth,\n    max_connection_lifetime=30,  # Tempo máximo de vida da conexão (em segundos)\n    max_connection_pool_size=50,  # Tamanho máximo do pool de conexões\n    connection_timeout=15  # Tempo limite de conexão (em segundos)\n)\n# Path: src/database/connection.py",
         "detail": "src.database.connection",
         "documentation": {}
     },
@@ -1246,6 +1278,15 @@
         "description": "src.database.count_nodes",
         "peekOfCode": "def count_nodes(collection: str) -> int:\n    try:\n        def count_query(tx):\n            query = f\"MATCH (u:{collection}) RETURN count(u) AS total\"\n            result = tx.run(query)\n            record = result.single()\n            return record[\"total\"] if record else 0\n        with driver.session() as session:\n            total = session.read_transaction(count_query)\n            return total",
         "detail": "src.database.count_nodes",
+        "documentation": {}
+    },
+    {
+        "label": "create_relation",
+        "kind": 2,
+        "importPath": "src.database.create_relation",
+        "description": "src.database.create_relation",
+        "peekOfCode": "def create_relation(primeiroNó: str, segundoNó: str, nomeDaRelacao: str) -> str:\n    try:\n        querry = f'''\n        MATCH (a:{primeiroNó}), (b:{segundoNó}) CREATE (a)-[:{nomeDaRelacao}]->(b)\n        '''\n        with driver.session() as session:\n            session.run(querry)\n        return f\"{formatarTexto_azul(\"Relação criada com sucesso!\")}\"\n    except Exception as e:\n        return f\"Erro ao criar relação: {formatarTexto_vermelho(str(e))}\\n\"",
+        "detail": "src.database.create_relation",
         "documentation": {}
     },
     {
