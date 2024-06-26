@@ -1,6 +1,8 @@
 from src.classes.compra import Compra
 from src.utils.limparTerminal import limparTerminal
 from src.utils.formatarTexto import formatarTexto_negrito
+from src.functions.setarUsuario import setarUsuario
+from src.functions.listarUsuario import listarUsuario
 
 def menuCampoUsuario(colecao: Compra) -> Compra:
     while True:
@@ -16,10 +18,10 @@ def menuCampoUsuario(colecao: Compra) -> Compra:
         
         match opcao:
             case "1":
-                pass
-                return colecao
+                setarUsuario(colecao)
+                return
             case "2":
-                pass
+                listarUsuario()
             case _:
                 print("Opção inválida")
                 input()

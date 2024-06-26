@@ -152,6 +152,30 @@
         "documentation": {}
     },
     {
+        "label": "Produto",
+        "importPath": "src.classes.produto",
+        "description": "src.classes.produto",
+        "isExtraImport": true,
+        "detail": "src.classes.produto",
+        "documentation": {}
+    },
+    {
+        "label": "Produto",
+        "importPath": "src.classes.produto",
+        "description": "src.classes.produto",
+        "isExtraImport": true,
+        "detail": "src.classes.produto",
+        "documentation": {}
+    },
+    {
+        "label": "Usuario",
+        "importPath": "src.classes.usuario",
+        "description": "src.classes.usuario",
+        "isExtraImport": true,
+        "detail": "src.classes.usuario",
+        "documentation": {}
+    },
+    {
         "label": "Usuario",
         "importPath": "src.classes.usuario",
         "description": "src.classes.usuario",
@@ -376,7 +400,7 @@
         "documentation": {}
     },
     {
-        "label": "formatarTexto_italico",
+        "label": "formatarTexto_vermelho",
         "importPath": "src.utils.formatarTexto",
         "description": "src.utils.formatarTexto",
         "isExtraImport": true,
@@ -384,7 +408,7 @@
         "documentation": {}
     },
     {
-        "label": "formatarTexto_negrito",
+        "label": "formatarTexto_vermelho",
         "importPath": "src.utils.formatarTexto",
         "description": "src.utils.formatarTexto",
         "isExtraImport": true,
@@ -457,6 +481,38 @@
     },
     {
         "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_italico",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_negrito",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
+        "label": "formatarTexto_vermelho",
         "importPath": "src.utils.formatarTexto",
         "description": "src.utils.formatarTexto",
         "isExtraImport": true,
@@ -704,11 +760,27 @@
         "documentation": {}
     },
     {
-        "label": "count_nodes",
-        "importPath": "src.database.count_nodes",
-        "description": "src.database.count_nodes",
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
         "isExtraImport": true,
-        "detail": "src.database.count_nodes",
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
         "documentation": {}
     },
     {
@@ -733,6 +805,30 @@
         "description": "src.database.count_nodes",
         "isExtraImport": true,
         "detail": "src.database.count_nodes",
+        "documentation": {}
+    },
+    {
+        "label": "count_nodes",
+        "importPath": "src.database.count_nodes",
+        "description": "src.database.count_nodes",
+        "isExtraImport": true,
+        "detail": "src.database.count_nodes",
+        "documentation": {}
+    },
+    {
+        "label": "count_nodes",
+        "importPath": "src.database.count_nodes",
+        "description": "src.database.count_nodes",
+        "isExtraImport": true,
+        "detail": "src.database.count_nodes",
+        "documentation": {}
+    },
+    {
+        "label": "Vendedor",
+        "importPath": "src.classes.vendedor",
+        "description": "src.classes.vendedor",
+        "isExtraImport": true,
+        "detail": "src.classes.vendedor",
         "documentation": {}
     },
     {
@@ -864,6 +960,14 @@
         "documentation": {}
     },
     {
+        "label": "menuCampoUsuario",
+        "importPath": "src.layouts.menuCampoUsuario",
+        "description": "src.layouts.menuCampoUsuario",
+        "isExtraImport": true,
+        "detail": "src.layouts.menuCampoUsuario",
+        "documentation": {}
+    },
+    {
         "label": "criarProduto",
         "importPath": "src.utils.criarProduto",
         "description": "src.utils.criarProduto",
@@ -912,6 +1016,46 @@
         "documentation": {}
     },
     {
+        "label": "create_relation",
+        "importPath": "src.database.create_relation",
+        "description": "src.database.create_relation",
+        "isExtraImport": true,
+        "detail": "src.database.create_relation",
+        "documentation": {}
+    },
+    {
+        "label": "create_relation",
+        "importPath": "src.database.create_relation",
+        "description": "src.database.create_relation",
+        "isExtraImport": true,
+        "detail": "src.database.create_relation",
+        "documentation": {}
+    },
+    {
+        "label": "create_relation",
+        "importPath": "src.database.create_relation",
+        "description": "src.database.create_relation",
+        "isExtraImport": true,
+        "detail": "src.database.create_relation",
+        "documentation": {}
+    },
+    {
+        "label": "create_relation",
+        "importPath": "src.database.create_relation",
+        "description": "src.database.create_relation",
+        "isExtraImport": true,
+        "detail": "src.database.create_relation",
+        "documentation": {}
+    },
+    {
+        "label": "pegarUm",
+        "importPath": "src.functions.pegarUm",
+        "description": "src.functions.pegarUm",
+        "isExtraImport": true,
+        "detail": "src.functions.pegarUm",
+        "documentation": {}
+    },
+    {
         "label": "pegarUm",
         "importPath": "src.functions.pegarUm",
         "description": "src.functions.pegarUm",
@@ -992,11 +1136,19 @@
         "documentation": {}
     },
     {
-        "label": "limparTerminal",
-        "importPath": "src.utils.limparTerminal",
-        "description": "src.utils.limparTerminal",
+        "label": "definirProdutoDaCompra",
+        "importPath": "src.functions.definirProdutoDaCompra",
+        "description": "src.functions.definirProdutoDaCompra",
         "isExtraImport": true,
-        "detail": "src.utils.limparTerminal",
+        "detail": "src.functions.definirProdutoDaCompra",
+        "documentation": {}
+    },
+    {
+        "label": "definirUsuarioDaCompra",
+        "importPath": "src.functions.definirUsuarioDaCompra",
+        "description": "src.functions.definirUsuarioDaCompra",
+        "isExtraImport": true,
+        "detail": "src.functions.definirUsuarioDaCompra",
         "documentation": {}
     },
     {
@@ -1053,6 +1205,54 @@
         "description": "src.utils.limparTerminal",
         "isExtraImport": true,
         "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "limparTerminal",
+        "importPath": "src.utils.limparTerminal",
+        "description": "src.utils.limparTerminal",
+        "isExtraImport": true,
+        "detail": "src.utils.limparTerminal",
+        "documentation": {}
+    },
+    {
+        "label": "listarProduto",
+        "importPath": "src.functions.listarProduto",
+        "description": "src.functions.listarProduto",
+        "isExtraImport": true,
+        "detail": "src.functions.listarProduto",
+        "documentation": {}
+    },
+    {
+        "label": "listarProduto",
+        "importPath": "src.functions.listarProduto",
+        "description": "src.functions.listarProduto",
+        "isExtraImport": true,
+        "detail": "src.functions.listarProduto",
+        "documentation": {}
+    },
+    {
+        "label": "setarUsuario",
+        "importPath": "src.functions.setarUsuario",
+        "description": "src.functions.setarUsuario",
+        "isExtraImport": true,
+        "detail": "src.functions.setarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "listarUsuario",
+        "importPath": "src.functions.listarUsuario",
+        "description": "src.functions.listarUsuario",
+        "isExtraImport": true,
+        "detail": "src.functions.listarUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "listarUsuario",
+        "importPath": "src.functions.listarUsuario",
+        "description": "src.functions.listarUsuario",
+        "isExtraImport": true,
+        "detail": "src.functions.listarUsuario",
         "documentation": {}
     },
     {
@@ -1109,22 +1309,6 @@
         "description": "src.functions.cadastrarProduto",
         "isExtraImport": true,
         "detail": "src.functions.cadastrarProduto",
-        "documentation": {}
-    },
-    {
-        "label": "listarProduto",
-        "importPath": "src.functions.listarProduto",
-        "description": "src.functions.listarProduto",
-        "isExtraImport": true,
-        "detail": "src.functions.listarProduto",
-        "documentation": {}
-    },
-    {
-        "label": "listarUsuario",
-        "importPath": "src.functions.listarUsuario",
-        "description": "src.functions.listarUsuario",
-        "isExtraImport": true,
-        "detail": "src.functions.listarUsuario",
         "documentation": {}
     },
     {
@@ -1198,14 +1382,6 @@
         "description": "src.layouts.menuPrincipal",
         "isExtraImport": true,
         "detail": "src.layouts.menuPrincipal",
-        "documentation": {}
-    },
-    {
-        "label": "create_relation",
-        "importPath": "src.database.create_relation",
-        "description": "src.database.create_relation",
-        "isExtraImport": true,
-        "detail": "src.database.create_relation",
         "documentation": {}
     },
     {
@@ -1285,7 +1461,7 @@
         "kind": 2,
         "importPath": "src.database.create_relation",
         "description": "src.database.create_relation",
-        "peekOfCode": "def create_relation(primeiroNó: str, segundoNó: str, nomeDaRelacao: str) -> str:\n    try:\n        querry = f'''\n        MATCH (a:{primeiroNó}), (b:{segundoNó}) CREATE (a)-[:{nomeDaRelacao}]->(b)\n        '''\n        with driver.session() as session:\n            session.run(querry)\n        return f\"{formatarTexto_azul(\"Relação criada com sucesso!\")}\"\n    except Exception as e:\n        return f\"Erro ao criar relação: {formatarTexto_vermelho(str(e))}\\n\"",
+        "peekOfCode": "def create_relation(primeiroNó: str, segundoNó: str, nomeDaRelacao: str) -> str | None:\n    try:\n        querry = f'''\n        MATCH (a:{primeiroNó}), (b:{segundoNó}) CREATE (a)-[:{nomeDaRelacao}]->(b)\n        '''\n        with driver.session() as session:\n            session.run(querry)\n            return f\"{formatarTexto_azul(\"Relação criada com sucesso!\")}\"\n    except Exception as e:\n        return None",
         "detail": "src.database.create_relation",
         "documentation": {}
     },
@@ -1339,7 +1515,7 @@
         "kind": 2,
         "importPath": "src.functions.cadastrarCompra",
         "description": "src.functions.cadastrarCompra",
-        "peekOfCode": "def cadastrarCompra():\n    try:\n        compra = criarCompra(isRequired=True)\n        result = insert_compra(compra)\n        print()\n        print(result)\n        input()\n    except Exception as e:\n        print(f\"\\nFalha ao cadastrar compra: {formatarTexto_vermelho(str(e))}\")\n        input()",
+        "peekOfCode": "def cadastrarCompra():\n    try:\n        compra = criarCompra(isRequired=True)\n        compra.id = count_nodes(\"Compra\") + 1\n        result = insert_compra(compra)\n        menuCampoUsuario(compra)\n        print()\n        print(result)\n        input()\n    except Exception as e:",
         "detail": "src.functions.cadastrarCompra",
         "documentation": {}
     },
@@ -1368,6 +1544,33 @@
         "description": "src.functions.cadastrarVendedor",
         "peekOfCode": "def cadastrarVendedor():\n    try:\n        vendedor = criarVendedor(isRequired=True)\n        result = insert_vendedor(vendedor)\n        print()\n        print(result)\n        input()\n    except Exception as e:\n        print(f\"\\nFalha ao cadastrar vendedor: {formatarTexto_vermelho(str(e))}\")\n        input()",
         "detail": "src.functions.cadastrarVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "definirProdutoDaCompra",
+        "kind": 2,
+        "importPath": "src.functions.definirProdutoDaCompra",
+        "description": "src.functions.definirProdutoDaCompra",
+        "peekOfCode": "def definirProdutoDaCompra(produto: Produto, compra: Compra):\n    try:\n        produto = \"Produto {id: \" + str(produto.id) + \"}\"\n        compra = \"Compra {id: \" + str(compra.id) + \"}\"\n        result = create_relation(produto, compra, \"ESTA_EM\")\n        if result:\n            print()\n            print(result)\n            input()\n        else:",
+        "detail": "src.functions.definirProdutoDaCompra",
+        "documentation": {}
+    },
+    {
+        "label": "definirProdutoDoVendedor",
+        "kind": 2,
+        "importPath": "src.functions.definirProdutoDoVendedor",
+        "description": "src.functions.definirProdutoDoVendedor",
+        "peekOfCode": "def definirProdutoDoVendedor(produto: Produto, vendedor: Vendedor):\n    try:\n        produto - f\"Produto {id: {produto.id}}\"\n        vendedor = f\"Vendedor {id: {vendedor.id}}\"\n        result = create_relation(produto, vendedor, \"PERTENCE_A\")\n        if result:\n            print()\n            print(result)\n            input()\n    except Exception as e:",
+        "detail": "src.functions.definirProdutoDoVendedor",
+        "documentation": {}
+    },
+    {
+        "label": "definirUsuarioDaCompra",
+        "kind": 2,
+        "importPath": "src.functions.definirUsuarioDaCompra",
+        "description": "src.functions.definirUsuarioDaCompra",
+        "peekOfCode": "def definirUsuarioDaCompra(usuario: Usuario, compra: Compra):\n    try:\n        usuario = \"Usuario {id: \" + str(usuario.id) + \"}\"\n        compra = \"Compra {id: \" + str(compra.id) + \"}\"\n        result = create_relation(usuario, compra, \"FEZ\")\n        if result:\n            print()\n            print(result)\n            input()\n    except Exception as e:",
+        "detail": "src.functions.definirUsuarioDaCompra",
         "documentation": {}
     },
     {
@@ -1425,11 +1628,20 @@
         "documentation": {}
     },
     {
+        "label": "setarUsuario",
+        "kind": 2,
+        "importPath": "src.functions.setarUsuario",
+        "description": "src.functions.setarUsuario",
+        "peekOfCode": "def setarUsuario(compra: Compra):\n    try:\n        id = input(\"Digite o id do usuario: \")\n        usuario = pegarUm(\"Usuario\", id)\n        if usuario:\n            definirUsuarioDaCompra(usuario, compra)\n            return\n        else:\n            raise Exception(\"Usuário não encontrado\")\n    except Exception as e:",
+        "detail": "src.functions.setarUsuario",
+        "documentation": {}
+    },
+    {
         "label": "menuCampoProdutos",
         "kind": 2,
         "importPath": "src.layouts.menuCampoProdutos",
         "description": "src.layouts.menuCampoProdutos",
-        "peekOfCode": "def menuCampoProdutos(colecao: Compra | Vendedor) -> Compra | Vendedor:\n    while True:\n        limparTerminal()\n        print(\"--\" * 21)\n        print(formatarTexto_negrito(\"Menu Campo Produtos\"))\n        print(\"1 - Adicionar Produto\")\n        print(\"2 - Listar Produtos Atuais\")\n        print(\"3 - Listar Produtos Totais\")\n        print(\"4 - Remover Produto\")\n        print(\"0 - Concluir\")",
+        "peekOfCode": "def menuCampoProdutos(colecao: Compra | Vendedor) -> Compra | Vendedor:\n    while True:\n        limparTerminal()\n        print(\"--\" * 21)\n        print(formatarTexto_negrito(\"Menu Campo Produtos\"))\n        print(\"1 - Adicionar Produto\")\n        print(\"2 - Listar Produtos Atuais\")\n        print(\"3 - Listar Produtos Totais\")\n        print(\"0 - Concluir\")\n        print(\"--\" * 21)",
         "detail": "src.layouts.menuCampoProdutos",
         "documentation": {}
     },
