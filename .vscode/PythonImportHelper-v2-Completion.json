@@ -424,6 +424,14 @@
         "documentation": {}
     },
     {
+        "label": "formatarTexto_vermelho",
+        "importPath": "src.utils.formatarTexto",
+        "description": "src.utils.formatarTexto",
+        "isExtraImport": true,
+        "detail": "src.utils.formatarTexto",
+        "documentation": {}
+    },
+    {
         "label": "formatarTexto_italico",
         "importPath": "src.utils.formatarTexto",
         "description": "src.utils.formatarTexto",
@@ -784,6 +792,14 @@
         "documentation": {}
     },
     {
+        "label": "Compra",
+        "importPath": "src.classes.compra",
+        "description": "src.classes.compra",
+        "isExtraImport": true,
+        "detail": "src.classes.compra",
+        "documentation": {}
+    },
+    {
         "label": "count_nodes",
         "importPath": "src.database.count_nodes",
         "description": "src.database.count_nodes",
@@ -944,6 +960,70 @@
         "documentation": {}
     },
     {
+        "label": "pegarUm",
+        "importPath": "src.functions.pegarUm",
+        "description": "src.functions.pegarUm",
+        "isExtraImport": true,
+        "detail": "src.functions.pegarUm",
+        "documentation": {}
+    },
+    {
+        "label": "pegarUm",
+        "importPath": "src.functions.pegarUm",
+        "description": "src.functions.pegarUm",
+        "isExtraImport": true,
+        "detail": "src.functions.pegarUm",
+        "documentation": {}
+    },
+    {
+        "label": "pegarUm",
+        "importPath": "src.functions.pegarUm",
+        "description": "src.functions.pegarUm",
+        "isExtraImport": true,
+        "detail": "src.functions.pegarUm",
+        "documentation": {}
+    },
+    {
+        "label": "pegarUm",
+        "importPath": "src.functions.pegarUm",
+        "description": "src.functions.pegarUm",
+        "isExtraImport": true,
+        "detail": "src.functions.pegarUm",
+        "documentation": {}
+    },
+    {
+        "label": "pegarUm",
+        "importPath": "src.functions.pegarUm",
+        "description": "src.functions.pegarUm",
+        "isExtraImport": true,
+        "detail": "src.functions.pegarUm",
+        "documentation": {}
+    },
+    {
+        "label": "pegarUm",
+        "importPath": "src.functions.pegarUm",
+        "description": "src.functions.pegarUm",
+        "isExtraImport": true,
+        "detail": "src.functions.pegarUm",
+        "documentation": {}
+    },
+    {
+        "label": "definirProdutoDaCompra",
+        "importPath": "src.functions.definirProdutoDaCompra",
+        "description": "src.functions.definirProdutoDaCompra",
+        "isExtraImport": true,
+        "detail": "src.functions.definirProdutoDaCompra",
+        "documentation": {}
+    },
+    {
+        "label": "definirProdutoDaCompra",
+        "importPath": "src.functions.definirProdutoDaCompra",
+        "description": "src.functions.definirProdutoDaCompra",
+        "isExtraImport": true,
+        "detail": "src.functions.definirProdutoDaCompra",
+        "documentation": {}
+    },
+    {
         "label": "criarCompra",
         "importPath": "src.utils.criarCompra",
         "description": "src.utils.criarCompra",
@@ -965,6 +1045,14 @@
         "description": "src.layouts.menuCampoUsuario",
         "isExtraImport": true,
         "detail": "src.layouts.menuCampoUsuario",
+        "documentation": {}
+    },
+    {
+        "label": "menuCampoProdutos",
+        "importPath": "src.layouts.menuCampoProdutos",
+        "description": "src.layouts.menuCampoProdutos",
+        "isExtraImport": true,
+        "detail": "src.layouts.menuCampoProdutos",
         "documentation": {}
     },
     {
@@ -1048,46 +1136,6 @@
         "documentation": {}
     },
     {
-        "label": "pegarUm",
-        "importPath": "src.functions.pegarUm",
-        "description": "src.functions.pegarUm",
-        "isExtraImport": true,
-        "detail": "src.functions.pegarUm",
-        "documentation": {}
-    },
-    {
-        "label": "pegarUm",
-        "importPath": "src.functions.pegarUm",
-        "description": "src.functions.pegarUm",
-        "isExtraImport": true,
-        "detail": "src.functions.pegarUm",
-        "documentation": {}
-    },
-    {
-        "label": "pegarUm",
-        "importPath": "src.functions.pegarUm",
-        "description": "src.functions.pegarUm",
-        "isExtraImport": true,
-        "detail": "src.functions.pegarUm",
-        "documentation": {}
-    },
-    {
-        "label": "pegarUm",
-        "importPath": "src.functions.pegarUm",
-        "description": "src.functions.pegarUm",
-        "isExtraImport": true,
-        "detail": "src.functions.pegarUm",
-        "documentation": {}
-    },
-    {
-        "label": "pegarUm",
-        "importPath": "src.functions.pegarUm",
-        "description": "src.functions.pegarUm",
-        "isExtraImport": true,
-        "detail": "src.functions.pegarUm",
-        "documentation": {}
-    },
-    {
         "label": "pegarTodos",
         "importPath": "src.functions.pegarTodos",
         "description": "src.functions.pegarTodos",
@@ -1133,14 +1181,6 @@
         "description": "src.database.search_nodes",
         "isExtraImport": true,
         "detail": "src.database.search_nodes",
-        "documentation": {}
-    },
-    {
-        "label": "definirProdutoDaCompra",
-        "importPath": "src.functions.definirProdutoDaCompra",
-        "description": "src.functions.definirProdutoDaCompra",
-        "isExtraImport": true,
-        "detail": "src.functions.definirProdutoDaCompra",
         "documentation": {}
     },
     {
@@ -1229,6 +1269,14 @@
         "description": "src.functions.listarProduto",
         "isExtraImport": true,
         "detail": "src.functions.listarProduto",
+        "documentation": {}
+    },
+    {
+        "label": "adicionarProdutoCompra",
+        "importPath": "src.functions.adicionarProdutoCompra",
+        "description": "src.functions.adicionarProdutoCompra",
+        "isExtraImport": true,
+        "detail": "src.functions.adicionarProdutoCompra",
         "documentation": {}
     },
     {
@@ -1511,11 +1559,20 @@
         "documentation": {}
     },
     {
+        "label": "adicionarProdutoCompra",
+        "kind": 2,
+        "importPath": "src.functions.adicionarProdutoCompra",
+        "description": "src.functions.adicionarProdutoCompra",
+        "peekOfCode": "def adicionarProdutoCompra(compra: Compra):\n    try:\n        id = input(\"Digite o id do produto: \")\n        produto = pegarUm(\"Produto\", id)\n        if produto:\n            definirProdutoDaCompra(produto, compra)\n            return\n        else:\n            raise Exception(\"Produto não encontrado\")\n    except Exception as e:",
+        "detail": "src.functions.adicionarProdutoCompra",
+        "documentation": {}
+    },
+    {
         "label": "cadastrarCompra",
         "kind": 2,
         "importPath": "src.functions.cadastrarCompra",
         "description": "src.functions.cadastrarCompra",
-        "peekOfCode": "def cadastrarCompra():\n    try:\n        compra = criarCompra(isRequired=True)\n        compra.id = count_nodes(\"Compra\") + 1\n        result = insert_compra(compra)\n        menuCampoUsuario(compra)\n        print()\n        print(result)\n        input()\n    except Exception as e:",
+        "peekOfCode": "def cadastrarCompra():\n    try:\n        compra = criarCompra(isRequired=True)\n        compra.id = count_nodes(\"Compra\") + 1\n        result = insert_compra(compra)\n        menuCampoUsuario(compra)\n        menuCampoProdutos(compra)\n        print()\n        print(result)\n        input()",
         "detail": "src.functions.cadastrarCompra",
         "documentation": {}
     },

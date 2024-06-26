@@ -3,6 +3,7 @@ from src.utils.formatarTexto import formatarTexto_negrito
 from src.classes.vendedor import Vendedor
 from src.classes.compra import Compra
 from src.functions.listarProduto import listarProduto
+from src.functions.adicionarProdutoCompra import adicionarProdutoCompra
 
 def menuCampoProdutos(colecao: Compra | Vendedor) -> Compra | Vendedor:
     while True:
@@ -23,7 +24,7 @@ def menuCampoProdutos(colecao: Compra | Vendedor) -> Compra | Vendedor:
                 if colecao.__class__ == Vendedor:
                     pass
                 if colecao.__class__ == Compra:
-                    pass
+                    adicionarProdutoCompra(colecao)
             case "2":
                 pass
             case "3":

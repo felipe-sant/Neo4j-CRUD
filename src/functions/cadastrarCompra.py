@@ -3,6 +3,7 @@ from src.database.insert_compra import insert_compra
 from src.utils.formatarTexto import formatarTexto_vermelho
 from src.layouts.menuCampoUsuario import menuCampoUsuario
 from src.database.count_nodes import count_nodes
+from src.layouts.menuCampoProdutos import menuCampoProdutos
 
 def cadastrarCompra():
     try:
@@ -10,6 +11,7 @@ def cadastrarCompra():
         compra.id = count_nodes("Compra") + 1
         result = insert_compra(compra)
         menuCampoUsuario(compra)
+        menuCampoProdutos(compra)
         print()
         print(result)
         input()
